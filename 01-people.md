@@ -3,7 +3,7 @@
 ::::{grid} 1 2 3 4
 
 :::{grid-item-card}
-:link: tamas-spisak
+:link: people/tamas-spisak.md
 ```{image} figures/tamas-spisak.*
 :alt: photo
 :width: 300px
@@ -20,7 +20,7 @@ PI
 ::::{grid} 1 2 3 4
 
 :::{grid-item-card}
-:link: raviteja-kotikalapudi
+:link: people/raviteja-kotikalapudi.md
 ```{image} figures/raviteja-kotikalapudi.*
 :alt: photo
 :width: 300px
@@ -32,7 +32,7 @@ PI
 
 
 :::{grid-item-card}
-:link: balint-kincses
+:link: people/balint-kincses.md
 ```{image} figures/balint-kincses.*
 :alt: photo
 :width: 300px
@@ -44,7 +44,7 @@ PI
 
 
 :::{grid-item-card}
-:link: jialin-li
+:link: people/jialin-li.md
 ```{image} figures/jialin-li.*
 :alt: photo
 :width: 300px
@@ -56,7 +56,7 @@ PI
 
 
 :::{grid-item-card}
-:link: robert-englert
+:link: people/robert-englert.md
 ```{image} figures/robert-englert.*
 :alt: photo
 :width: 300px
@@ -68,7 +68,7 @@ PI
 
 
 :::{grid-item-card}
-:link: giuseppe-gallitto
+:link: people/giuseppe-gallitto.md
 ```{image} figures/giuseppe-gallitto.*
 :alt: photo
 :width: 300px
@@ -80,7 +80,7 @@ PI
 
 
 :::{grid-item-card}
-:link: kevin-hoffschlag
+:link: people/kevin-hoffschlag.md
 ```{image} figures/kevin-hoffschlag.*
 :alt: photo
 :width: 300px
@@ -92,7 +92,7 @@ PI
 
 
 :::{grid-item-card}
-:link: evgenij-knorr
+:link: people/evgenij-knorr.md
 ```{image} figures/evgenij-knorr.*
 :alt: photo
 :width: 300px

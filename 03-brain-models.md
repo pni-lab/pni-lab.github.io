@@ -3,7 +3,7 @@
 ::::{grid} 1 2 2 2
 
 :::{grid-item-card}
-:link: https://pni-lab.github.io/connattractor/paper
+:link: https://pni-lab.github.io/connattractor
 #### fcHNN
 Functional connectome-based Hopfield Neural networks
 ```{image} figures/model-fchnn.*

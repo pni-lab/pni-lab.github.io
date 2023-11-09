@@ -16,19 +16,19 @@
   - Year
 
 * - [Multivariate BWAS can be replicable with moderate sample sizes](https://doi.org/10.1038/s41586-023-05745-x)
-  - [Tamas Spisak](people/tamas-spisak)
+  - [Tamas Spisak](people/tamas-spisak.md)
   - Tor D. Wager
   - Nature
   - 2023
 
 * - [Pain-free resting-state functional brain connectivity predicts individual pain sensitivity](https://doi.org/10.1038/s41467-019-13785-z)
-  - [Tamás Spisák](people/tamas-spisak)
+  - [Tamás Spisák](people/tamas-spisak.md)
   - Ulrike Bingel
   - Nature Communications
   - 2020
 
 * - [Statistical quantification of confounding bias in machine learning models](doi.org/10.1093/gigascience/giac082)
-  - [Tamas Spisak](people/tamas-spisak)
+  - [Tamas Spisak](people/tamas-spisak.md)
   - 
   - GigaScience
   - 2022
@@ -40,20 +40,20 @@
   - 2021
 
 * - [Probabilistic TFCE: a generalised combination of cluster size and voxel intensity to increase statistical power](doi.org/10.1016/j.neuroimage.2018.09.078)
-  - [Tamas Spisak](people/tamas-spisak)
+  - [Tamas Spisak](people/tamas-spisak.md)
   - Tamas Z. Kincses
   - NeuroImage
   - 2019
 
 * - [Brain morphology predicts individual sensitivity to pain: a multicenter machine learning approach](doi.org/10.1097/j.pain.0000000000002958)
   - [Raviteja Kotikalapudi](people/raviteja-kotikalapudi)
-  - [Tamas Spisak](people/tamas-spisak)
+  - [Tamas Spisak](people/tamas-spisak.md)
   - Pain
   - 2023
 
 * - [ALIIAS: Anonymization/Pseudonymization with LimeSurvey integration and II-factor Authentication for Scientific research](https://doi.org/10.1016/j.softx.2023.101522)
   - [Robert Englert](robert-englert)
-  - [Tamas Spisak](people/tamas-spisak)
+  - [Tamas Spisak](people/tamas-spisak.md)
   - SoftwareX
   - 2023
 
@@ -64,8 +64,8 @@
   - 2023
 
 * - [An externally validated resting-state brain connectivity signature of pain-related learning](doi.org/10.31219/osf.io/utkbv)
-  - [Balint Kincses](people/balint-kincses)
-  - [Tamas Spisak](people/tamas-spisak)
+  - [Balint Kincses](people/balint-kincses.md)
+  - [Tamas Spisak](people/tamas-spisak.md)
   - OSF preprint
   - 2023
 

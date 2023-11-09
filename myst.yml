@@ -16,8 +16,8 @@ site:
   twitter: https://twitter.com/spisaktamas
   github: https://github.com/pni-lab
   #analytics_google: G-16X8EW2S89 # Measurement ID or Tracking ID
-  logo: figures/logo_small.svg
-  logo_dark: figures/logo_small.svg
+  logo: figures/logo_text_black.svg
+  logo_dark: figures/logo_text_white.svg
   nav: []
   actions:
     - title: IKIM
