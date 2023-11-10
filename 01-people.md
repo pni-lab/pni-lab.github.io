@@ -6,12 +6,12 @@
 
 :::{grid-item-card}
 :link: people/tamas-spisak.md
+:header: #### Tamas Spisak
 ```{image} figures/tamas-spisak.*
 :alt: photo
 :width: 300px
 :align: center
 ```
-#### Tamas Spisak
 :::
 
 ::::
@@ -22,85 +22,85 @@
 
 :::{grid-item-card}
 :link: people/raviteja-kotikalapudi.md
+:header: #### Raviteja Kotikalapudi
+:footer: *postdoctoral researcher*
 ```{image} figures/raviteja-kotikalapudi.*
 :alt: photo
 :width: 300px
 :align: center
 ```
-#### Raviteja Kotikalapudi
-*postdoctoral researcher*
 :::
 
 
 :::{grid-item-card}
 :link: people/balint-kincses.md
+:header: #### Balint Kincses
+:footer: *postdoctoral researcher*
 ```{image} figures/balint-kincses.*
 :alt: photo
 :width: 300px
 :align: center
 ```
-#### Balint Kincses
-*postdoctoral researcher*
 :::
 
 
 :::{grid-item-card}
 :link: people/jialin-li.md
+:header: #### Jialin Li
+:footer: *doctoral student*
 ```{image} figures/jialin-li.*
 :alt: photo
 :width: 300px
 :align: center
 ```
-#### Jialin Li
-*doctoral student*
 :::
 
 
 :::{grid-item-card}
 :link: people/robert-englert.md
+:header: #### Robert Englert
+:footer: *doctoral student*
 ```{image} figures/robert-englert.*
 :alt: photo
 :width: 300px
 :align: center
 ```
-#### Robert Englert
-*doctoral student*
 :::
 
 
 :::{grid-item-card}
 :link: people/giuseppe-gallitto.md
+:header: #### Giuseppe Gallitto
+:footer: *doctoral student*
 ```{image} figures/giuseppe-gallitto.*
 :alt: photo
 :width: 300px
 :align: center
 ```
-#### Giuseppe Gallitto
-*doctoral student*
 :::
 
 
 :::{grid-item-card}
 :link: people/kevin-hoffschlag.md
+:header: #### Kevin Hoffschlag 
+:footer: *research assistant*
 ```{image} figures/kevin-hoffschlag.*
 :alt: photo
 :width: 300px
 :align: center
 ```
-#### Kevin Hoffschlag 
-*research assistant*
 :::
 
 
 :::{grid-item-card}
 :link: people/evgenij-knorr.md
+:header: #### Evgenij Knorr 
+:footer: *IT expert*
 ```{image} figures/evgenij-knorr.*
 :alt: photo
 :width: 300px
 :align: center
 ```
-#### Evgenij Knorr 
-*IT expert*
 :::
 
 
