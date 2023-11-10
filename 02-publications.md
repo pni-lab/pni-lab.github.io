@@ -52,7 +52,7 @@
   - 2023
 
 * - [ALIIAS: Anonymization/Pseudonymization with LimeSurvey integration and II-factor Authentication for Scientific research](https://doi.org/10.1016/j.softx.2023.101522)
-  - [Robert Englert](robert-englert)
+  - [Robert Englert](people/robert-englert)
   - [Tamas Spisak](people/tamas-spisak.md)
   - SoftwareX
   - 2023

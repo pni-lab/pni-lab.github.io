@@ -116,7 +116,7 @@ PI
 :::
 
 :::{grid-item-card}
-**Mohamad Aborouas** \
+**Mohamad Abouras** \
 *student assistant*
 :::
 

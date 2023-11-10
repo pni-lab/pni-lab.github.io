@@ -27,6 +27,17 @@ Tools for analyzing and quantifying effects of counfounder variables on machine 
 :::
 
 :::{grid-item-card}
+:link: https://github.com/pni-lab/ALIIAS
+#### ALIIAS
+Pseudonymization for scientific research
+```{image} figures/ALIIAS_logo.*
+:alt: photo
+:width: 300px
+:align: center
+```
+:::
+
+:::{grid-item-card}
 :link: 
 #### PUMI
 :::
