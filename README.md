@@ -15,7 +15,7 @@ AI and ML offer more than just accelerating, automating and facilitating existin
 
 :::{grid-item-card}
 :link: 00-news.md
-🔥 News 
+🆕 News 
 :::
 
 :::{grid-item-card}

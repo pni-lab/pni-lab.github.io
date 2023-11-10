@@ -1,5 +1,7 @@
 # People
 
+### PI
+
 ::::{grid} 1 2 3 4
 
 :::{grid-item-card}
@@ -10,12 +12,11 @@
 :align: center
 ```
 #### Tamas Spisak
-PI
 :::
 
 ::::
 
----------------------------
+### Members
 
 ::::{grid} 1 2 3 4
 
@@ -106,7 +107,7 @@ PI
 ::::
 
 ---------------------------
-#### Alumni
+### Alumni
 
 ::::{grid} 1 2 2 4
 

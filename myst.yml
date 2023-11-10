@@ -2,7 +2,7 @@
 version: 1
 project:
   title: Predictive Neuroscience Lab
-  short_title: Home
+  short_title: PREDICTIVE NEUROSCIENCE
   description: The official website of the Predictive Neuroscience Lab, University Hospital Essen, Germany
   keywords: []
   license: CC-BY-4.0
@@ -16,8 +16,8 @@ site:
   twitter: https://twitter.com/spisaktamas
   github: https://github.com/pni-lab
   #analytics_google: G-16X8EW2S89 # Measurement ID or Tracking ID
-  logo: figures/logo_text_black.svg
-  logo_dark: figures/logo_text_white.svg
+  logo: figures/logo_only_blue.svg
+  logo_dark: figures/logo_only_blue.svg
   nav: []
   actions:
     - title: IKIM

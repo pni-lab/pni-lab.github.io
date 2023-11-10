@@ -38,6 +38,11 @@ Tools for analyzing and quantifying effects of counfounder variables on machine 
 
 :::{grid-item-card}
 :link: 
+#### connattractor
+:::
+
+:::{grid-item-card}
+:link: 
 #### nifeatures
 :::
 
