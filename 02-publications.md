@@ -28,7 +28,7 @@
 
 * - [Statistical quantification of confounding bias in machine learning models](doi.org/10.1093/gigascience/giac082)
   - [Tamas Spisak](tamas-spisak)
-  - 
+  - *sole author*
   - {abbr}`GigaScience (2021 IF: 7.7)`
   - 2022
 
