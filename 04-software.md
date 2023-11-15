@@ -49,6 +49,11 @@ Pseudonymization for scientific research
 
 :::{grid-item-card}
 :link: 
+#### connattractor
+:::
+
+:::{grid-item-card}
+:link: 
 #### nifeatures
 :::
 

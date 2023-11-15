@@ -2,7 +2,6 @@
 
 `````{tab-set}
 
-
 ````{tab-item} Selected
 
 ```{list-table}
@@ -16,45 +15,45 @@
   - Year
 
 * - [Multivariate BWAS can be replicable with moderate sample sizes](https://doi.org/10.1038/s41586-023-05745-x)
-  - [Tamas Spisak](people/tamas-spisak.md)
+  - [Tamas Spisak](tamas-spisak)
   - Tor D. Wager
-  - Nature
+  - {abbr}`Nature (2022 IF: 64.8)`
   - 2023
 
 * - [Pain-free resting-state functional brain connectivity predicts individual pain sensitivity](https://doi.org/10.1038/s41467-019-13785-z)
-  - [Tamás Spisák](people/tamas-spisak.md)
+  - [Tamás Spisák](tamas-spisak)
   - Ulrike Bingel
-  - Nature Communications
+  - {abbr}`Nature Communications (2021 IF: 14.9)`
   - 2020
 
 * - [Statistical quantification of confounding bias in machine learning models](doi.org/10.1093/gigascience/giac082)
-  - [Tamas Spisak](people/tamas-spisak.md)
+  - [Tamas Spisak](tamas-spisak)
   - 
-  - GigaScience
+  - {abbr}`GigaScience (2021 IF: 7.7)`
   - 2022
 
 * - [Meta-analysis of neural systems underlying placebo analgesia from individual participant fMRI data](https://doi.org/10.1038/s41467-021-21179-3)
   - Matthias Zunhammer
   - Ulrike Bingel
-  - Nature Communications
+  - {abbr}`Nature Communications (2021 IF: 17.7)`
   - 2021
 
 * - [Probabilistic TFCE: a generalised combination of cluster size and voxel intensity to increase statistical power](doi.org/10.1016/j.neuroimage.2018.09.078)
-  - [Tamas Spisak](people/tamas-spisak.md)
+  - [Tamas Spisak](tamas-spisak)
   - Tamas Z. Kincses
-  - NeuroImage
+  - {abbr}`NeuroImage (2019 IF: 5.9)`
   - 2019
 
 * - [Brain morphology predicts individual sensitivity to pain: a multicenter machine learning approach](doi.org/10.1097/j.pain.0000000000002958)
-  - [Raviteja Kotikalapudi](people/raviteja-kotikalapudi)
-  - [Tamas Spisak](people/tamas-spisak.md)
-  - Pain
+  - [Raviteja Kotikalapudi](raviteja-kotikalapudi)
+  - [Tamas Spisak](tamas-spisak)
+  - {abbr}`Pain (2022 IF: 7.9)`
   - 2023
 
 * - [ALIIAS: Anonymization/Pseudonymization with LimeSurvey integration and II-factor Authentication for Scientific research](https://doi.org/10.1016/j.softx.2023.101522)
-  - [Robert Englert](people/robert-englert)
-  - [Tamas Spisak](people/tamas-spisak.md)
-  - SoftwareX
+  - [Robert Englert](robert-englert)
+  - [Tamas Spisak](tamas-spisak)
+  - {abbr}`SoftwareX (2022 IF: 2.9)`
   - 2023
 
 * - [The Past, Present, and Future of the Brain Imaging Data Structure (BIDS)](https://doi.org/10.48550/arXiv.2309.05768)
@@ -64,8 +63,8 @@
   - 2023
 
 * - [An externally validated resting-state brain connectivity signature of pain-related learning](doi.org/10.31219/osf.io/utkbv)
-  - [Balint Kincses](people/balint-kincses.md)
-  - [Tamas Spisak](people/tamas-spisak.md)
+  - [Balint Kincses](balint-kincses)
+  - [Tamas Spisak](tamas-spisak)
   - OSF preprint
   - 2023
 
