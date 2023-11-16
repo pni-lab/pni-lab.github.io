@@ -78,7 +78,7 @@ AI and ML offer more than just accelerating, automating and facilitating existin
 
 :::{grid-item-card}
 :link: https://www.ume.de/
-```{image} figures/funding/ume.jpg
+```{image} figures/funding/UME.jpg
 :alt: logo
 :width: 50%
 :align: center
@@ -107,7 +107,7 @@ AI and ML offer more than just accelerating, automating and facilitating existin
 
 :::{grid-item-card}
 :link: https://sfb1280.ruhr-uni-bochum.de/en/home/
-```{image} figures/funding/sfb_1280.png
+```{image} figures/funding/SFB_1280.png
 :alt: logo
 :width: 50%
 :align: center
