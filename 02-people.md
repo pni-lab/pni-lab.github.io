@@ -1,12 +1,13 @@
-# People
+## People
 
-### PI
+
 
 ::::{grid} 1 2 3 4
 
 :::{grid-item-card}
 :link: people/tamas-spisak.md
 :header: #### Tamas Spisak
+:footer: *PI*
 ```{image} figures/tamas-spisak.*
 :alt: photo
 :width: 300px
@@ -15,8 +16,6 @@
 :::
 
 ::::
-
-### Members
 
 ::::{grid} 1 2 3 4
 

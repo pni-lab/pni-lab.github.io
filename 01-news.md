@@ -1,6 +1,6 @@
-# News
+## News
 
-### 2023
+### Latest
 
 ```{card} Review paper
 :header: #### 🎉 Review accepted

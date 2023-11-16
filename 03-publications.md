@@ -1,4 +1,4 @@
-# Publications
+## Publications
 
 `````{tab-set}
 
@@ -20,7 +20,7 @@
   - TD. Wager
   - {abbr}`Nature (2022 IF: 64.8)`
   - 2023
-  - [🌐︎](#bwas-replicability) [🎞️](https://youtu.be/sFDRh_AfjkI)
+  - [🌐︎](#bwas-replicability) [🎦](https://youtu.be/sFDRh_AfjkI)
 
 * - [Pain-free resting-state functional brain connectivity predicts individual pain sensitivity](https://doi.org/10.1038/s41467-019-13785-z)
   - [T. Spisak](tamas-spisak)
