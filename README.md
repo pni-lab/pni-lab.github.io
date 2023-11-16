@@ -17,7 +17,7 @@
 
 :::{grid-item-card}
 :link: #about
-🆕 [About](#about)
+ℹ️ [About](#about)
 :::
 
 :::{grid-item-card}
@@ -47,7 +47,7 @@
 
 :::{grid-item-card}
 :link: #funding
-ℹ️ [Funding](#funding)
+🪙 [Funding](#funding)
 :::
 
 :::{grid-item-card}
