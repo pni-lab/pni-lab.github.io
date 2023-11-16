@@ -31,7 +31,7 @@
 :::
 
 :::{grid-item-card}
-:link: ./01-brain-models.md
+:link: ./04-brain-models.md
 🧠 [Brain models](#brain-models)
 :::
 
