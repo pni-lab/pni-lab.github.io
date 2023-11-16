@@ -5,7 +5,8 @@
 ```{card} Review paper
 :header: #### 🎉 Review accepted
 :footer: Nov 9th 2023
-Our narrative/educational review on ML in neuroscience is accepted in BBI.
+:link: https://www.sciencedirect.com/science/article/pii/S0889159123003380
+Machine learning and artificial intelligence in neuroscience: A primer for researchers
 ```
 
 

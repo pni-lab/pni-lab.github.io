@@ -13,69 +13,90 @@
   - Last
   - Journal
   - Year
+  - More
 
 * - [Multivariate BWAS can be replicable with moderate sample sizes](https://doi.org/10.1038/s41586-023-05745-x)
-  - [Tamas Spisak](tamas-spisak)
-  - Tor D. Wager
+  - [T. Spisak](tamas-spisak)
+  - TD. Wager
   - {abbr}`Nature (2022 IF: 64.8)`
   - 2023
+  - [🌐︎](#bwas-replicability) [🎞️](https://youtu.be/sFDRh_AfjkI)
 
 * - [Pain-free resting-state functional brain connectivity predicts individual pain sensitivity](https://doi.org/10.1038/s41467-019-13785-z)
-  - [Tamás Spisák](tamas-spisak)
-  - Ulrike Bingel
+  - [T. Spisak](tamas-spisak)
+  - U. Bingel
   - {abbr}`Nature Communications (2021 IF: 14.9)`
   - 2020
+  - [🌐︎](#rpn-signature)
 
 * - [Statistical quantification of confounding bias in machine learning models](doi.org/10.1093/gigascience/giac082)
-  - [Tamas Spisak](tamas-spisak)
+  - [T. Spisak](tamas-spisak)
   - *sole author*
   - {abbr}`GigaScience (2021 IF: 7.7)`
   - 2022
+  - [🌐︎](#mlconfound)
 
 * - [Meta-analysis of neural systems underlying placebo analgesia from individual participant fMRI data](https://doi.org/10.1038/s41467-021-21179-3)
-  - Matthias Zunhammer
-  - Ulrike Bingel
+  - M. Zunhammer
+  - U. Bingel
   - {abbr}`Nature Communications (2021 IF: 17.7)`
   - 2021
+  - [🌐︎](https://placebo-imaging-consortium.github.io/)
 
 * - [Probabilistic TFCE: a generalised combination of cluster size and voxel intensity to increase statistical power](doi.org/10.1016/j.neuroimage.2018.09.078)
   - [Tamas Spisak](tamas-spisak)
-  - Tamas Z. Kincses
+  - TZ. Kincses
   - {abbr}`NeuroImage (2019 IF: 5.9)`
   - 2019
+  - [🌐︎](#ptfce)
 
 * - [Brain morphology predicts individual sensitivity to pain: a multicenter machine learning approach](doi.org/10.1097/j.pain.0000000000002958)
-  - [Raviteja Kotikalapudi](raviteja-kotikalapudi)
-  - [Tamas Spisak](tamas-spisak)
+  - [R. Kotikalapudi](raviteja-kotikalapudi)
+  - [T. Spisak](tamas-spisak)
   - {abbr}`Pain (2022 IF: 7.9)`
   - 2023
+  - [🌐︎](#ctp-signature)
 
 * - [ALIIAS: Anonymization/Pseudonymization with LimeSurvey integration and II-factor Authentication for Scientific research](https://doi.org/10.1016/j.softx.2023.101522)
-  - [Robert Englert](robert-englert)
-  - [Tamas Spisak](tamas-spisak)
+  - [R. Englert](robert-englert)
+  - [T. Spisak](tamas-spisak)
   - {abbr}`SoftwareX (2022 IF: 2.9)`
+  - 2023
+  - [🌐︎](#aliias)
+
+* - [Machine learning and artificial intelligence in neuroscience: A primer for researchers](https://doi.org/10.1016/j.bbi.2023.11.005)
+  - F. Badrulhisham
+  - Jan Vollert
+  - {abbr}`Brain, Behavior, and Immunity (2022 IF: 15.1)`
   - 2023
 
 * - [The Past, Present, and Future of the Brain Imaging Data Structure (BIDS)](https://doi.org/10.48550/arXiv.2309.05768)
-  - Russel A. Poldrack
-  - Krzysztof J. Gorgolewski 
+  - RA. Poldrack
+  - KJ. Gorgolewski 
   - ArXiv
   - 2023
 
 * - [An externally validated resting-state brain connectivity signature of pain-related learning](doi.org/10.31219/osf.io/utkbv)
-  - [Balint Kincses](balint-kincses)
-  - [Tamas Spisak](tamas-spisak)
+  - [B. Kincses](balint-kincses)
+  - [T. Spisak](tamas-spisak)
   - OSF preprint
   - 2023
+  - [🌐︎](#rcpl-signature)
+
+* - [Connectome-Based Attractor Dynamics Underlie Brain Activity in Rest, Task, and Disease](https://doi.org/10.1101/2023.11.03.565516)
+  - [R. Englert](robert-englert)
+  - [T. Spisak](tamas-spisak)
+  - BioRxiv preprint, [website](https://pni-lab.github.io/connattractor/paper)
+  - 2023
+  - [🌐︎](#fchnn)
 
 ```
 ````
 
-````{tab-item} All
-````
-
-````{tab-item} Per year
+````{tab-item} Latest
 #### 2023
+- [](https://doi.org/10.1016/j.bbi.2023.11.005)
+- [](https://doi.org/10.1101/2023.11.03.565516)
 - [](doi.org/10.1016/j.softx.2023.101522)
 - [](doi.org/10.31219/osf.io/utkbv)
 - [](https://doi.org/10.48550/arXiv.2309.05768)
@@ -126,10 +147,9 @@
 - [](https://dx.doi.org/10.1594/ecr2013/C-2588)
 - [](https://doi.org/10.1016/j.eplepsyres.2011.04.011)
 
+````
 
-
-
-
+````{tab-item} All
 ````
 
 

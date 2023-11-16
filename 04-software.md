@@ -46,4 +46,15 @@ Tools for analyzing and quantifying effects of counfounder variables on machine 
 #### nifeatures
 :::
 
+:::{grid-item-card}
+:link: https://spisakt.github.io/BWAS_comment/
+#### BWAS replicability
+```{image} figures/sw-bwas.png
+:alt: photo
+:width: 300px
+:align: center
+```
+:::
+
+
 ::::
