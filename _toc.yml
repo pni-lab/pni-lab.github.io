@@ -1,0 +1,38 @@
+# Table of Contents
+#
+# Myst will respect:
+# 1. New pages
+#      - file: relative/path/to/page
+# 2. New sections without an associated page
+#      - title: Folder Title
+#        sections: ...
+# 3. New sections with an associated page
+#      - file: relative/path/to/page
+#        sections: ...
+#
+# Note: Titles defined on pages here are not recognized.
+#
+# This spec is based on the JupyterBook table of contents.
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: README
+chapters:
+  - file: 01-news
+  - file: 02-people
+  - title: 
+    sections:
+      - file: people/balint-kincses
+      - file: people/evgenij-knorr
+      - file: people/giuseppe-gallitto
+      - file: people/jialin-li
+      - file: people/kevin-hoffschlag
+      - file: people/raviteja-kotikalapudi
+      - file: people/robert-englert
+      - file: people/tamas-spisak
+  - file: 03-publications
+  - file: 04-brain-models
+  - file: 05-software
+  - file: 06-data
+  - file: 08-contact
+

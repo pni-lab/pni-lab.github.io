@@ -1,5 +1,5 @@
 
-# Contact
+## Contact
 
 
 ```{image} figures/logo_text_blue.svg

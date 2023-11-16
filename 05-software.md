@@ -61,8 +61,8 @@ Pseudonymization for scientific research
 :::{grid-item-card}
 :link: https://pni-lab.github.io/connattractor
 :header: #### connattractor
-:footer: ![](https://img.shields.io/badge/python-3.X-blue)
-Functional connectome-based Hopfield Neural networks
+:footer: ![](https://img.shields.io/badge/python-3.X-blue) [![GitHub release](https://img.shields.io/github/release/pni-lab/connattractor.svg)](https://github.com/pni-lab/connattractor/releases/)
+Functional connectome-based Hopfield Neural Networks
 ```{image} figures/model-fchnn.*
 :alt: photo
 :width: 300px
