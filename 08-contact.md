@@ -2,9 +2,9 @@
 ## Contact
 
 
-```{image} figures/logo_text_blue.svg
+```{image} figures/logo_text_blue.png
 :alt: logo
-:width: 30%
+:width: 40%
 :align: left
 ```
 
