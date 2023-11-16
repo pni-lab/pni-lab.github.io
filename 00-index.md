@@ -11,7 +11,7 @@
 ::::{grid} 1 1 2 3
 
 :::{grid-item-card}
-:link: #latest
+:link: ./01-news.md
 🆕 [News](#latest)
 :::
 
@@ -21,27 +21,27 @@
 :::
 
 :::{grid-item-card}
-:link: 01-people.md
+:link: ./02-people.md
 👥 [People](#people) 
 :::
 
 :::{grid-item-card}
-:link: 02-publications.md
+:link: ./03-publications.md
 📄 [Publications](#selected-publications)
 :::
 
 :::{grid-item-card}
-:link: 03-brain-models.md
+:link: ./01-brain-models.md
 🧠 [Brain models](#brain-models)
 :::
 
 :::{grid-item-card}
-:link: 04-software.md
+:link: ./05-software.md
 💻 [Software](#software)
 :::
 
 :::{grid-item-card}
-:link: #funding
+:link: ./06-data.md
 ⬇️ [Data](#data)
 :::
 
@@ -51,7 +51,7 @@
 :::
 
 :::{grid-item-card}
-:link: 05-contact.md
+:link: ./07-contact.md
 ✉️ [Contact](#map)
 :::
 

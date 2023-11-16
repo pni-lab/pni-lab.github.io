@@ -22,7 +22,7 @@ Click for details.
 ```{card} The Lab has a new website
 :header: #### 🌐 New website
 :footer: Nov 6th 2023
-:link: https://pni-lab.github.io
+:link: https://pni-lab.github.io/old_website
 Welcome to our new website! \
 This website is still under construction. \
 Looking for the old website? Click here!
