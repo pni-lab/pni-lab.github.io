@@ -1,3 +1,8 @@
+---
+short_title: Publications
+github: https://github.com/pni-lab
+---
+
 ## Publications
 
 `````{tab-set}
