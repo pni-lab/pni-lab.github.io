@@ -1,3 +1,8 @@
+---
+short_title: Brain Models
+github: https://github.com/pni-lab
+---
+
 ## Brain Models
 
 ::::{grid} 1 2 3 3
