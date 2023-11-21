@@ -1,6 +1,6 @@
 ---
 short_title: Contact
-github: https://github.com/pni-lab
+github: https://github.com/pni-lab/pni-lab.github.io/blob/main/07-contact.md
 ---
 
 ## Contact
