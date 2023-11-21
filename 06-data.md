@@ -1,6 +1,6 @@
 ---
 short_title: Data
-github: https://github.com/pni-data
+github: https://github.com/pni-lab/pni-lab.github.io/blob/main/06-data.md
 ---
 
 ## Data
