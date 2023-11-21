@@ -1,6 +1,9 @@
+---
+short_title: People
+github: https://github.com/pni-lab
+---
+
 ## People
-
-
 
 ::::{grid} 1 2 3 4
 
