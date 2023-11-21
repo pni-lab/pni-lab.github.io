@@ -1,6 +1,6 @@
 ---
 short_title: Brain Models
-github: https://github.com/pni-lab
+github: https://github.com/pni-lab/pni-lab.github.io/edit/main/04-brain-models.md
 ---
 
 ## Brain Models
