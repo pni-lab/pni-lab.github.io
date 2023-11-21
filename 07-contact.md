@@ -1,3 +1,7 @@
+---
+short_title: Contact
+github: https://github.com/pni-lab
+---
 
 ## Contact
 
