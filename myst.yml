@@ -15,7 +15,7 @@ site:
   hide_footer_links: true
   twitter: https://twitter.com/spisaktamas
   github: https://github.com/pni-lab
-  #analytics_google: G-16X8EW2S89 # Measurement ID or Tracking ID
+  analytics_google: UA-120757757-3 # Measurement ID or Tracking ID
   logo: figures/logo_text_blue.svg
   logo_dark: figures/logo_text_blue.png
   nav: []
