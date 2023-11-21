@@ -1,6 +1,18 @@
+---
+short_title: News
+github: https://github.com/pni-lab
+---
+
 ## News
 
 ### Latest
+
+```{card} Package release
+:header: #### 🎉 [Connattractor](#fchnn) on PyPI
+:footer: Nov 21th 2023
+:link: [https://www.sciencedirect.com/science/article/pii/S0889159123003380](https://pypi.org/project/connattractor/)
+The connattractor package for fcHNN analyses is now available on PyPI. Installation and quickstart [here](https://pni-lab.github.io/connattractor/package).
+```
 
 ```{card} Review paper
 :header: #### 🎉 Review accepted
