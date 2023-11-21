@@ -1,3 +1,8 @@
+---
+short_title: Software
+github: https://github.com/pni-lab
+---
+
 ## Software
 
 
@@ -43,19 +48,22 @@ Pseudonymization for scientific research
 :::{grid-item-card}
 :link: 
 :header: #### PUMI
-:footer:
+:footer: ![Python](https://img.shields.io/badge/python-3.X-blue) ![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/pni-lab/pumi?label=latest%20tag)
+PUMI
 :::
 
 :::{grid-item-card}
 :link: 
 :header: #### adaptivesplit
-:footer:
+:footer: ![Python](https://img.shields.io/badge/python-3.X-blue) ![pre-release](https://img.shields.io/badge/release-N/A-lightgray)
+adaptivesplit 
 :::
 
 :::{grid-item-card}
 :link: 
 :header: #### BIDS-MEGA
-:footer: ![](https://img.shields.io/badge/specification-blue)
+:footer: ![](https://img.shields.io/badge/specification-proposal-blue)
+BIDS-MEGA
 :::
 
 :::{grid-item-card}
@@ -73,7 +81,8 @@ Functional connectome-based Hopfield Neural Networks
 :::{grid-item-card}
 :link: 
 :header: #### nifeatures
-:footer:
+:footer: ![Python](https://img.shields.io/badge/python-3.X-blue) ![pre-release](https://img.shields.io/badge/release-N/A-lightgray)
+nifeatures
 :::
 
 :::{grid-item-card}
