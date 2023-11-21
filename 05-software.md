@@ -1,6 +1,6 @@
 ---
 short_title: Software
-github: https://github.com/pni-lab
+github: https://github.com/pni-lab/pni-lab.github.io/blob/main/05-software.md
 ---
 
 ## Software
