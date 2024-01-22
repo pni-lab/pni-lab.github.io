@@ -54,3 +54,11 @@ tamas.spisak@uk-essen.de
 ````{tab-item} Phone
 +49 201 / 723-6379
 ````
+
+````{tab-item} Social Networks
+- **Github:**
+[spisakt](https://github.com/spisakt)
+- **𝕏:**
+[spisaktamas](https://twitter.com/spisaktamas)
+
+````

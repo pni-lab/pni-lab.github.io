@@ -1,3 +1,7 @@
+---
+short_title: Tamas Spisak
+github: https://github.com/pni-lab/pni-lab.github.io/blob/main/people/tamas-spisak.md
+---
 
 :::{card} # Prof.  Dr. Tamas Spisak
 :width: 200%
@@ -27,7 +31,7 @@ tamas.spisak@uk-essen.de
 - **Github:**
 [spisakt](https://github.com/spisakt)
 - **𝕏:**
-[@spisaktamas](https://twitter.com/spisaktamas)
+[spisaktamas](https://twitter.com/spisaktamas)
 
 ```
 ::::

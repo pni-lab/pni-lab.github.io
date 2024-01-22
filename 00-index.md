@@ -1,3 +1,7 @@
+---
+short_title: News
+github: https://github.com/pni-lab/pni-lab.github.io/blob/main/00-index.md
+---
 
 ```{image} figures/animated_logo.gif
 :alt: animated logo
