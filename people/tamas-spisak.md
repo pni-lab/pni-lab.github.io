@@ -1,8 +1,9 @@
 
-:::{card} # Prof. Tamas Spisak
+:::{card} # Prof.  Dr. Tamas Spisak
 :width: 200%
-**Professor of Predictive Neuroscience**
-**PI of the Predictive Neuroscience Lab**
+### **Professor of Predictive Neuroscience**
+
+***PI @ Predictive Neuroscience Lab***
 :::
 
 ::::{grid} 2 2 2 2
