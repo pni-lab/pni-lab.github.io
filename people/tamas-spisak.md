@@ -21,17 +21,15 @@ github: https://github.com/pni-lab/pni-lab.github.io/blob/main/people/tamas-spis
 ```
 
 ```{card}
-:header: ### Quick Information
-:footer: [**More**](#Contact)
-- **Mail:**
-tamas.spisak@uk-essen.de
-- **Affiliation:**
-[Center for Translational and Behavioral Neuroscience](https://c-tnbs.uk-essen.de/), [University Medicine Essen](https://www.uk-essen.de/en/)
+:header: ### Affiliation
+:footer: [**Get in touch!**](#Contact)
+
+
+[Center for Translational and Behavioral Neuroscience](https://c-tnbs.uk-essen.de/)
+
+[University Medicine Essen](https://www.uk-essen.de/en/)
+
 [University of Duisburg-Essen](https://www.uni-due.de/en/)
-- **Github:**
-[spisakt](https://github.com/spisakt)
-- **𝕏:**
-[spisaktamas](https://twitter.com/spisaktamas)
 
 ```
 ::::
