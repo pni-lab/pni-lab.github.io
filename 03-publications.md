@@ -99,8 +99,10 @@ github: https://github.com/pni-lab/pni-lab.github.io/blob/main/03-publications.m
 ````
 
 ````{tab-item} Latest
-#### 2023
+#### 2024
 - [](https://doi.org/10.1016/j.bbi.2023.11.005)
+
+#### 2023
 - [](https://doi.org/10.1101/2023.11.03.565516)
 - [](doi.org/10.1016/j.softx.2023.101522)
 - [](doi.org/10.31219/osf.io/utkbv)
