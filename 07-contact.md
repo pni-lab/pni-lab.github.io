@@ -18,7 +18,7 @@ github: https://github.com/pni-lab/pni-lab.github.io/blob/main/07-contact.md
 
 ````{tab-item} Office address
 **Predictive Neuroscience Lab** \
-Institute for Artificial Intelligence in Medicine
+Center for Translational and Behavioral Neuroscience
 
 *Girardethaus, House 6., floor 2 \
 Girardetstr. 6 \

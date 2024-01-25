@@ -13,7 +13,7 @@ github: https://github.com/pni-lab/pni-lab.github.io/blob/main/people/tamas-spis
 ::::{grid} 2 2 2 2
 
 ```{card}
-    ```{image} ../figures/tamas-spisak.*
+    ```{image} ../figures/tamas-spisak3.*
     :alt: photo
     :width: 100%
     :align: left

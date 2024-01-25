@@ -11,7 +11,7 @@ github: https://github.com/pni-lab/pni-lab.github.io/blob/main/02-people.md
 :link: people/tamas-spisak.md
 :header: #### Tamas Spisak
 :footer: *PI*
-```{image} figures/tamas-spisak.*
+```{image} figures/tamas-spisak3.*
 :alt: photo
 :width: 300px
 :align: center

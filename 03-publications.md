@@ -49,7 +49,7 @@ github: https://github.com/pni-lab/pni-lab.github.io/blob/main/03-publications.m
   - [🌐︎](https://placebo-imaging-consortium.github.io/)
 
 * - [Probabilistic TFCE: a generalised combination of cluster size and voxel intensity to increase statistical power](doi.org/10.1016/j.neuroimage.2018.09.078)
-  - [Tamas Spisak](tamas-spisak)
+  - [T. Spisak](tamas-spisak)
   - TZ. Kincses
   - {abbr}`NeuroImage (2019 IF: 5.9)`
   - 2019
