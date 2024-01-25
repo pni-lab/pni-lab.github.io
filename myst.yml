@@ -20,6 +20,8 @@ site:
   logo_dark: figures/logo_text_blue.png
   nav: []
   actions:
+    - title: C-TNBS
+      url: https://c-tnbs.uk-essen.de/
     - title: IKIM
       url: https://www.ikim.uk-essen.de
     - title: UME
