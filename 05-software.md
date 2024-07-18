@@ -53,17 +53,27 @@ PUMI
 :::
 
 :::{grid-item-card}
-:link: 
-:header: #### adaptivesplit
-:footer: ![Python](https://img.shields.io/badge/python-3.X-blue) ![pre-release](https://img.shields.io/badge/release-N/A-lightgray)
-adaptivesplit 
+:link: https://github.com/pni-lab/adaptivesplit
+:header: #### AdaptiveSplit
+:footer: ![Python](https://img.shields.io/badge/python-3.X-blue) ![release](https://img.shields.io/badge/release-v0.1.0-blue)
+External validation of machine learning models with adaptive sample splitting
+```{image} https://github.com/pni-lab/adaptivesplit/blob/main/docs/figures/concept.png
+:alt: photo
+:width: 300px
+:align: center
+```
 :::
 
 :::{grid-item-card}
-:link: 
+:link: https://bids.neuroimaging.io/bep035
 :header: #### BIDS-MEGA
-:footer: ![](https://img.shields.io/badge/specification-proposal-blue)
-BIDS-MEGA
+:footer: ![release](https://img.shields.io/badge/release-v0.1.0-blue)
+BIDS Extension Proposal - BEP035 (BIDS-MEGA) 
+```{image} figures/bids_logo.*
+:alt: photo
+:width: 300px
+:align: center
+```
 :::
 
 :::{grid-item-card}
@@ -79,10 +89,15 @@ Functional connectome-based Hopfield Neural Networks
 :::
 
 :::{grid-item-card}
-:link: 
+:link: https://github.com/pni-lab/nifeatures
 :header: #### nifeatures
-:footer: ![Python](https://img.shields.io/badge/python-3.X-blue) ![pre-release](https://img.shields.io/badge/release-N/A-lightgray)
-nifeatures
+:footer: ![Python](https://img.shields.io/badge/python-3.X-blue) ![release](https://img.shields.io/badge/release-v0.0.1-blue)
+Features engineering for neuroimaging data.
+```{image} figures/sw-nifeatures.*
+:alt: photo
+:width: 300px
+:align: center
+```
 :::
 
 :::{grid-item-card}
@@ -95,6 +110,5 @@ nifeatures
 :align: center
 ```
 :::
-
 
 ::::
