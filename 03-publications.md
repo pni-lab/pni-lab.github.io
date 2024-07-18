@@ -75,16 +75,16 @@ github: https://github.com/pni-lab/pni-lab.github.io/blob/main/03-publications.m
   - {abbr}`Brain, Behavior, and Immunity (2022 IF: 15.1)`
   - 2023
 
-* - [The Past, Present, and Future of the Brain Imaging Data Structure (BIDS)](https://doi.org/10.48550/arXiv.2309.05768)
+* - [The Past, Present, and Future of the Brain Imaging Data Structure (BIDS)](https://doi.org/10.1162/imag_a_00103)
   - RA. Poldrack
   - KJ. Gorgolewski 
-  - ArXiv
+  - Imaging Neuroscience
   - 2023
 
-* - [An externally validated resting-state brain connectivity signature of pain-related learning](doi.org/10.31219/osf.io/utkbv)
+* - [An externally validated resting-state brain connectivity signature of pain-related learning](https://doi.org/10.1038/s42003-024-06574-y)
   - [B. Kincses](balint-kincses)
   - [T. Spisak](tamas-spisak)
-  - OSF preprint
+  - Communications Biology
   - 2023
   - [🌐︎](#rcpl-signature)
 
@@ -100,8 +100,9 @@ github: https://github.com/pni-lab/pni-lab.github.io/blob/main/03-publications.m
 
 ````{tab-item} Latest
 #### 2024
+- [](https://doi.org/10.1101/2024.07.08.602202)
+- [](https://doi.org/10.1162/imag_a_00103)
 - [](https://doi.org/10.1016/j.bbi.2023.11.005)
-
 #### 2023
 - [](https://doi.org/10.1101/2023.11.03.565516)
 - [](doi.org/10.1016/j.softx.2023.101522)
