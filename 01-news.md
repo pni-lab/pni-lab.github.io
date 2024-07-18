@@ -7,10 +7,62 @@ github: https://github.com/pni-lab/pni-lab.github.io/blob/main/01-news.md
 
 ### Latest
 
+
+```{card} #### Meet us on IASP2024 in Amsterdam!
+:header: ✈️ Conference Visit
+:footer: July 18th 2024
+:link: https://www.iasp-pain.org/
+Our contributions: Machine Learning Masterclass talk by Tamas Spisak; two posters by Jialin Li and Balint Kincses
+```
+
+```{card} #### The [RCPL-signature](#rcpl-signature)-paper is out in Comm. Biol.
+:header:  🔥 New paper
+:footer: July 17th 2024
+:link: https://www.sciencedirect.com/science/article/pii/S0889159123003380
+An externally validated resting-state brain connectivity signature of pain-related learning. Balint Kincses, Katarina Forkmann, Frederik Schlitt, Robert Jan Pawlik, Katharina Schmidt, Dagmar Timmann, Sigrid Elsenbruch, Katja Wiech, Ulrike Bingel & Tamas Spisak 
+```
+
+```{card}  ####  Our new preprint about the replicability of DWI-based multivariate BWAS is out!
+:header: 🔥 Preprint Alert
+:footer: July 11th 2024
+:link: https://www.biorxiv.org/content/10.1101/2024.07.08.602202v1
+On the replicability of diffusion weighted MRI-based brain-behavior models, Raviteja Kotikalapudi, Balint Kincses, Giuseppe Gallitto, Robert Englert, Kevin Hoffschlag, Jialin Li, Ulrike Bingel, Tamas Spisak
+Click for details.
+```
+
+```{card} #### Our "Treatment Expectation" CRC got extended for 4 more years!
+:header: 🎉 Funding extended
+:footer: May 31th 2024
+:link: https://treatment-expectation.de/
+An externally validated resting-state brain connectivity signature of pain-related learning. Balint Kincses, Katarina Forkmann, Frederik Schlitt, Robert Jan Pawlik, Katharina Schmidt, Dagmar Timmann, Sigrid Elsenbruch, Katja Wiech, Ulrike Bingel & Tamas Spisak 
+```
+
+```{card} #### Meet us at OHBM2024 in Seoul!
+:header: ✈️ Conference visit
+:footer: May 20th 2024
+:link: [https://www.sciencedirect.com/science/article/pii/S0889159123003380](https://treatment-expectation.de/)
+Vist our posters (Jialin Li, Balint Kincses, Raviteja Kotikalapudi, Gisueppe Gallitto, Robert Englert) and see Giuseppe's talk about reinforcement learnong with brain feedback (RLBF) on the last day.
+```
+
+```{card} #### BIDS-paper is out in Imaging Neurosci.
+:header:  🔥 New paper
+:footer: July 17th 2024
+:link: https://www.sciencedirect.com/science/article/pii/S0889159123003380
+It's an honor to co-author this new paper about: The past, present, and future of the brain imaging data structure (BIDS).
+```
+
+```{card}  ####  Adaptivesplit preprint out!
+:header: 🔥 Preprint Alert
+:footer: May 10th 2023
+:link: [https://www.biorxiv.org/content/10.1101/2024.07.08.602202v1](https://www.biorxiv.org/content/10.1101/2023.12.01.569626v2)
+External validation of machine learning models - registered models and adaptive sample splitting, Giuseppe Gallitto, Robert Englert, Balint Kincses, Raviteja Kotikalapudi, Jialin Li, Kevin Hoffschlag, Ulrike Bingel, Tamas Spisak
+Click for details.
+```
+
 ```{card} #### [Connattractor](#fchnn) on PyPI
 :header: 💻 Software release 
 :footer: Nov 21th 2023
-:link: [https://www.sciencedirect.com/science/article/pii/S0889159123003380](https://pypi.org/project/connattractor/)
+:link: https://pypi.org/project/connattractor/
 The connattractor package for fcHNN analyses is now available on PyPI. Installation and quickstart [here](https://pni-lab.github.io/connattractor/package).
 ```
 
