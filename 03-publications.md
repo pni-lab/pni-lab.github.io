@@ -100,6 +100,7 @@ github: https://github.com/pni-lab/pni-lab.github.io/blob/main/03-publications.m
 
 ````{tab-item} Latest
 #### 2024
+- [](https://doi.org/10.1038/s42003-024-06574-y)
 - [](https://doi.org/10.1101/2024.07.08.602202)
 - [](https://doi.org/10.1162/imag_a_00103)
 - [](https://doi.org/10.1016/j.bbi.2023.11.005)
