@@ -61,7 +61,7 @@ Resting state brain connectivity signature of pain sensitivity
 :header: #### RPN signature subscores
 :footer: ![](https://img.shields.io/badge/rsfmri-lightgray)
 Anxiety positive and anxiety-neutral subscores of the RPN-signature
-*WIP*
+(*WIP*)
 ```{image} figures/model-rpn.*
 :alt: photo
 :width: 300px
@@ -69,5 +69,17 @@ Anxiety positive and anxiety-neutral subscores of the RPN-signature
 ```
 :::
 
+:::{grid-item-card}
+:link: https://github.com/pni-lab/RLBF
+:header: #### Reinforcement Learning via Brain Feedback
+:footer: ![](https://img.shields.io/badge/rtfmri-lightgray)
+Towards generative AI-based fMRI paradigms: reinforcement learning via real-time brain feedback
+(*WIP*)
+```{image} figures/model-rlbf.*
+:alt: photo
+:width: 300px
+:align: center
+```
+:::
 
 ::::
