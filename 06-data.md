@@ -3,6 +3,9 @@ short_title: Data
 github: https://github.com/pni-lab/pni-lab.github.io/blob/main/06-data.md
 ---
 
+% add an empty header to avoid having the first header in the page repeat twice
+##
+
 ## Data
 
 [DataLad](https://www.datalad.org/) datasets curated by the lab.
@@ -13,6 +16,7 @@ For an always up-to-date list of dataset and for data management instructions, s
 :::
 
 ::::{grid} 1 2 3 3
+
 
 :::{grid-item-card}
 :link: https://github.com/search?q=topic%3Atrr289+org%3Apni-data&type=Repositories
@@ -85,8 +89,4 @@ Extra low-resolution dummy data for lightning fast tests
 :::
 
 
-
-
-
 ::::
-

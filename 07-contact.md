@@ -3,8 +3,10 @@ short_title: Contact
 github: https://github.com/pni-lab/pni-lab.github.io/blob/main/07-contact.md
 ---
 
-## Contact
+% add an empty header to avoid having the first header in the page repeat twice
+##
 
+## Contact
 
 ```{image} figures/logo_text_blue.png
 :alt: logo

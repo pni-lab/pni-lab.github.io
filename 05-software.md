@@ -3,10 +3,13 @@ short_title: Software
 github: https://github.com/pni-lab/pni-lab.github.io/blob/main/05-software.md
 ---
 
+% add an empty header to avoid having the first header in the page repeat twice
+##
+
 ## Software
 
-
 ::::{grid} 1 2 3 3
+
 
 :::{grid-item-card}
 :link: https://spisakt.github.io/pTFCE/
@@ -110,5 +113,6 @@ Features engineering for neuroimaging data.
 :align: center
 ```
 :::
+
 
 ::::

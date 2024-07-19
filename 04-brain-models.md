@@ -3,9 +3,13 @@ short_title: Brain Models
 github: https://github.com/pni-lab/pni-lab.github.io/edit/main/04-brain-models.md
 ---
 
+% add an empty header to avoid having the first header in the page repeat twice
+##
+
 ## Brain Models
 
 ::::{grid} 1 2 3 3
+
 
 :::{grid-item-card}
 :link: https://pni-lab.github.io/connattractor
@@ -81,5 +85,6 @@ Towards generative AI-based fMRI paradigms: reinforcement learning via real-time
 :align: center
 ```
 :::
+
 
 ::::

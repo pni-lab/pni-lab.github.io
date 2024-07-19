@@ -3,9 +3,13 @@ short_title: People
 github: https://github.com/pni-lab/pni-lab.github.io/blob/main/02-people.md
 ---
 
+% add an empty header to avoid having the first header in the page repeat twice
+##
+
 ## People
 
 ::::{grid} 1 2 3 4
+
 
 :::{grid-item-card}
 :link: people/tamas-spisak.md
@@ -93,6 +97,17 @@ github: https://github.com/pni-lab/pni-lab.github.io/blob/main/02-people.md
 ```
 :::
 
+
+:::{grid-item-card}
+:link: people/sulin-ali.md
+:header: #### Sulin Ali
+:footer: *research assistant*
+```{image} figures/sulin-ali.*
+:alt: photo
+:width: 300px
+:align: center
+```
+:::
 
 :::{grid-item-card}
 :link: people/evgenij-knorr.md
