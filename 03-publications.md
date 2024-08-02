@@ -65,13 +65,6 @@ github: https://github.com/pni-lab/pni-lab.github.io/blob/main/03-publications.m
   - 2023
   - [🌐︎](#ctp-signature)
 
-* - [ALIIAS: Anonymization/Pseudonymization with LimeSurvey integration and II-factor Authentication for Scientific research](https://doi.org/10.1016/j.softx.2023.101522)
-  - [R. Englert](robert-englert)
-  - [T. Spisak](tamas-spisak)
-  - {abbr}`SoftwareX (2022 IF: 2.9)`
-  - 2023
-  - [🌐︎](#aliias)
-
 * - [Machine learning and artificial intelligence in neuroscience: A primer for researchers](https://doi.org/10.1016/j.bbi.2023.11.005)
   - F. Badrulhisham
   - Jan Vollert
@@ -87,17 +80,16 @@ github: https://github.com/pni-lab/pni-lab.github.io/blob/main/03-publications.m
 * - [An externally validated resting-state brain connectivity signature of pain-related learning](https://doi.org/10.1038/s42003-024-06574-y)
   - [B. Kincses](balint-kincses)
   - [T. Spisak](tamas-spisak)
-  - Communications Biology
-  - 2023
+  - {abbr}`Communications Biology (2023 IF: 5.9)`
+  - 2024
   - [🌐︎](#rcpl-signature)
 
 * - [Connectome-Based Attractor Dynamics Underlie Brain Activity in Rest, Task, and Disease](https://doi.org/10.1101/2023.11.03.565516)
   - [R. Englert](robert-englert)
   - [T. Spisak](tamas-spisak)
-  - BioRxiv preprint, [website](https://pni-lab.github.io/connattractor/paper)
+  - BioRxiv preprint, under review in {abbr}`eLife (2023 IF: 6.4)`, [website](https://pni-lab.github.io/connattractor/paper)
   - 2023
   - [🌐︎](#fchnn)
-
 ```
 ````
 

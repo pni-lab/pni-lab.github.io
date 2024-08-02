@@ -15,7 +15,7 @@ github: https://github.com/pni-lab/pni-lab.github.io/blob/main/02-people.md
 :link: people/tamas-spisak.md
 :header: #### Tamas Spisak
 :footer: *PI*
-```{image} figures/tamas-spisak3.*
+```{image} figures/tamas-spisak4.*
 :alt: photo
 :width: 300px
 :align: center
@@ -40,7 +40,7 @@ github: https://github.com/pni-lab/pni-lab.github.io/blob/main/02-people.md
 
 :::{grid-item-card}
 :link: people/balint-kincses.md
-:header: #### Balint Kincses
+:header: #### Balint Kincses <br>
 :footer: *postdoctoral researcher*
 ```{image} figures/balint-kincses.*
 :alt: photo
@@ -52,7 +52,7 @@ github: https://github.com/pni-lab/pni-lab.github.io/blob/main/02-people.md
 
 :::{grid-item-card}
 :link: people/jialin-li.md
-:header: #### Jialin Li
+:header: #### Jialin Li <br>
 :footer: *doctoral student*
 ```{image} figures/jialin-li.*
 :alt: photo
@@ -64,7 +64,7 @@ github: https://github.com/pni-lab/pni-lab.github.io/blob/main/02-people.md
 
 :::{grid-item-card}
 :link: people/robert-englert.md
-:header: #### Robert Englert
+:header: #### Robert Englert <br>
 :footer: *doctoral student*
 ```{image} figures/robert-englert.*
 :alt: photo
@@ -100,7 +100,7 @@ github: https://github.com/pni-lab/pni-lab.github.io/blob/main/02-people.md
 
 :::{grid-item-card}
 :link: people/sulin-ali.md
-:header: #### Sulin Ali
+:header: #### Sulin Ali <br>
 :footer: *research assistant*
 ```{image} figures/sulin-ali.*
 :alt: photo
@@ -111,7 +111,7 @@ github: https://github.com/pni-lab/pni-lab.github.io/blob/main/02-people.md
 
 :::{grid-item-card}
 :link: people/evgenij-knorr.md
-:header: #### Evgenij Knorr 
+:header: #### Evgenij Knorr <br>
 :footer: *IT expert*
 ```{image} figures/evgenij-knorr.*
 :alt: photo
