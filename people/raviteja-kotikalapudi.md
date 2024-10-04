@@ -26,7 +26,7 @@ github: [click-here](https://github.com/rkotikalapudi)
 | **2015-2019**  |             PhD Studies, University of Tuebingen, Germany             |
 | **2013-2014**  |                Senior Research Fellow, NIMHANS, India                 |
 | **2011-2012**  |     Research Assistant, University of Manchester, United Kingdom      |
-| **2010-2011**  | Master's in Medial Physics - University of Manchester, United Kingdom |
+| **2010-2011**  | Master's in Medical Physics - University of Manchester, United Kingdom |
 | **2005-2009**  |    Bachelor of Technology - Biomedical Engineering, JNTU-K, India     |
 
 ## Publications
