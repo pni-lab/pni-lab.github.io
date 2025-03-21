@@ -10,6 +10,15 @@ github: https://github.com/pni-lab/pni-lab.github.io/blob/main/01-news.md
 
 ### Latest
 
+```{card} **Our paper about Registered models and adaptive sample splitting is accepted in GigaScience!**
+:header: 🎉 New paper
+:footer: March 15th 2025
+:link: [https://www.biorxiv.org/content/10.1101/2024.07.08.602202v1.abstract](https://www.biorxiv.org/content/10.1101/2023.12.01.569626v2.abstract)
+External validation of machine learning models - registered models and adaptive sample splitting - by Gallitto et al.
+```
+
+
+
 ### 2024
 
 ```{card} **New preprint on the replicability of DWI-based predictive models**
