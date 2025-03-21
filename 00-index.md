@@ -68,7 +68,11 @@ github: https://github.com/pni-lab/pni-lab.github.io/blob/main/00-index.md
 
 ### About
 
-AI and ML offer more than just accelerating, automating and facilitating existing medical approaches and clinical workflows. They promise to unlock novel, and perhaps unforeseen, opportunities in medicine, addressing problems previously deemed invincible due to their immense complexities. In the field of neuroscience, these complex problems are exactly the ones that often hindered the successful integration of discoveries into translational and clinical applications. The Predictive Neuroscience Lab (University Hospital Essen, Germany, PI: [Tamas Spisak](tamas-spisak)) is a multidisciplinary team of neuroscientists, psychologists, physicians, engineers, computer scientists that aims to develop and apply AI and ML methods to address these complex problems. We develop "neuromarkers" of behavioral and clinical states and traits, to aid the diagnosis, stratification, prognosis and personalized intervention approaches in various neurological or psychiatric disorders and uncover the mechanisms that drive the predicted behavioral or clinical outcome. 
+The brain is the most complex system we have yet discovered in our universe. No wonder that studying it poses significant challenges. Recent advancements in AI and computational techniques hold the promise of tackling this complexity. These innovations may unlock novel - and perhaps unexpected - opportunities for integrating neuroscientific knowledge into clinical practice.
+
+At the Predictive Neuroscience Lab (University Hospital Essen, Germany, PI: [Tamas Spisak](tamas-spisak)), we are a multidisciplinary team of neuroscientists, psychologists, physicians, engineers, and computer scientists dedicated to developing and applying AI/ML methods and computational models to address complex neuroscientific problems with direct translational and clinical implications.
+
+We develop neuromarkers - biomarkers derived from neural data - that aim to predict behavioral and clinical states or traits at the individual level. We deploy computational brain models to uncover the neural mechanisms driving these predictions. We strive to apply these approaches in both experimental and clinical settings, directly evaluating their potential to enhance diagnosis, patient stratification, prognosis, and personalized intervention strategies for various brain disorders.
 
 ### Funding
 
