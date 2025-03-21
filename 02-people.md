@@ -11,6 +11,7 @@ github: https://github.com/pni-lab/pni-lab.github.io/blob/main/02-people.md
 ::::{grid} 1 2 3 4
 
 
+<!-- # Tamas Spisak -->
 :::{grid-item-card}
 :link: people/tamas-spisak.md
 :header: **Tamas Spisak**
