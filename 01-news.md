@@ -10,13 +10,20 @@ github: https://github.com/pni-lab/pni-lab.github.io/blob/main/01-news.md
 
 ### Latest
 
+```{card} **Meet us on CCN2025 in Amsterdam!**
+:header: ✈️ Conference Visit
+:footer: August 12-15 2025
+:link: [https://2025.ccneuro.org](https://2025.ccneuro.org/)
+"On the replicability of diffusion weighted MRI-based brain-behavior models" by Kotikalapudi et al.
+Meet there Tamas and Giuseppe!
+```
+
 ```{card} **Our paper about Registered models and adaptive sample splitting is accepted in GigaScience!**
 :header: 🎉 New paper
 :footer: March 15th 2025
-:link: [https://www.biorxiv.org/content/10.1101/2024.07.08.602202v1.abstract](https://www.biorxiv.org/content/10.1101/2023.12.01.569626v2.abstract)
+:link: [https://doi.org/10.1093/gigascience/giaf036](https://doi.org/10.1093/gigascience/giaf036)
 External validation of machine learning models - registered models and adaptive sample splitting - by Gallitto et al.
 ```
-
 
 
 ### 2024
@@ -25,14 +32,14 @@ External validation of machine learning models - registered models and adaptive 
 :header: 🔥 Preprint
 :footer: July 11th 2024
 :link: https://www.biorxiv.org/content/10.1101/2024.07.08.602202v1.abstract
-Our contributions: Machine Learning Masterclass talk by Tamas Spisak; two posters by Jialin Li and Balint Kincses
+"On the replicability of diffusion weighted MRI-based brain-behavior models" by Kotikalapudi et al.
 ```
 
 ```{card} **Meet us on IASP2024 in Amsterdam!**
 :header: ✈️ Conference Visit
 :footer: July 18th 2024
 :link: https://www.iasp-pain.org/
-"On the replicability of diffusion weighted MRI-based brain-behavior models" by Kotikalapudi et al.
+Our contributions: Machine Learning Masterclass talk by Tamas Spisak; two posters by Jialin Li and Balint Kincses
 ```
 
 ```{card} **The [RCPL-signature](#rcpl-signature)-paper is out in Comm. Biol.**
