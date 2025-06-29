@@ -1,6 +1,5 @@
 ---
 short_title: Contact
-github: https://github.com/pni-lab/pni-lab.github.io/blob/main/07-contact.md
 ---
 
 % add an empty header to avoid having the first header in the page repeat twice
@@ -59,6 +58,7 @@ tamas.spisak@uk-essen.de
 
 ````{tab-item} Social Networks
 - **Github:**
+[pni-lab]https://github.com/pni-lab
 [spisakt](https://github.com/spisakt)
 - **𝕏:**
 [spisaktamas](https://twitter.com/spisaktamas)
