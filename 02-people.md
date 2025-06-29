@@ -1,6 +1,5 @@
 ---
 short_title: People
-github: https://github.com/pni-lab/pni-lab.github.io/blob/main/02-people.md
 ---
 
 % add an empty header to avoid having the first header in the page repeat twice
