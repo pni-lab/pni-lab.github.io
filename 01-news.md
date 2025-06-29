@@ -1,6 +1,5 @@
 ---
 short_title: News
-github: https://github.com/pni-lab/pni-lab.github.io/blob/main/01-news.md
 ---
 
 % add an empty header to avoid having the first header in the page repeat twice
