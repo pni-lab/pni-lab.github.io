@@ -10,6 +10,27 @@ github: https://github.com/pni-lab/pni-lab.github.io/blob/main/01-news.md
 
 ### Latest
 
+```{card} **New preprint on self-orthogonalizing attractor networks**
+:header: 🔥 Preprint
+:footer: May 28th 2025
+:link: https://arxiv.org/abs/2505.22749
+"Self-orthogonalizing attractor neural networks emerging from the free energy principle" by T. Spisak and K. Friston.
+```
+
+```{card} **Mechanisms of conditioned vs. verbally induced placebo analgesia**
+:header: 🔥 Preprint
+:footer: May 22th 2025
+:link: https://www.biorxiv.org/content/10.1101/2025.05.21.655287v1.abstract
+"Meta-analytic evidence for distinct neural correlates of conditioned vs. verbally induced placebo analgesia" by T. Spisak et al.
+```
+
+```{card} **New preprint on the neural signature of pain relief**
+:header: 🔥 Preprint
+:footer: Apr 3th 2025
+:link: [https://arxiv.org/abs/2505.22749](https://www.biorxiv.org/content/10.1101/2025.04.02.646781v1.abstract)
+"Common and distinct neural mechanisms of aversive and appetitive pain-related learning" by Jialin Li et al.
+```
+
 ```{card} **Meet us on CCN2025 in Amsterdam!**
 :header: ✈️ Conference Visit
 :footer: August 12-15 2025
