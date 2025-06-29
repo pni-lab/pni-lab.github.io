@@ -84,7 +84,6 @@ Click for details.
 :header: 🎉 Funding extended
 :footer: May 31th 2024
 :link: https://treatment-expectation.de/
-An externally validated resting-state brain connectivity signature of pain-related learning. Balint Kincses, Katarina Forkmann, Frederik Schlitt, Robert Jan Pawlik, Katharina Schmidt, Dagmar Timmann, Sigrid Elsenbruch, Katja Wiech, Ulrike Bingel & Tamas Spisak 
 ```
 
 ```{card} **Meet us at OHBM2024 in Seoul!**
