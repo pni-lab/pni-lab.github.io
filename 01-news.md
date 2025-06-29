@@ -14,7 +14,8 @@ github: https://github.com/pni-lab/pni-lab.github.io/blob/main/01-news.md
 :header: ✈️ Conference Visit
 :footer: August 12-15 2025
 :link: [https://2025.ccneuro.org](https://2025.ccneuro.org/)
-"On the replicability of diffusion weighted MRI-based brain-behavior models" by Kotikalapudi et al.
+"High-level information integration in the brain via large-scale attractor dynamics" #274
+"Towards generative AI-based fMRI paradigms: reinforcement learning via real-time brain feedback" #552
 Meet there Tamas and Giuseppe!
 ```
 
