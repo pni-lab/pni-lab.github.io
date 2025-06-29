@@ -1,6 +1,5 @@
 ---
 short_title: Data
-github: https://github.com/pni-lab/pni-lab.github.io/blob/main/06-data.md
 ---
 
 % add an empty header to avoid having the first header in the page repeat twice
