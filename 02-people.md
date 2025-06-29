@@ -40,16 +40,16 @@ github: https://github.com/pni-lab/pni-lab.github.io/blob/main/02-people.md
 :::
 
 
-%:::{grid-item-card}
-%:link: people/balint-kincses.md
-%:header: **Balint Kincses** <br>
-%:footer: *postdoctoral researcher*
-%```{image} figures/balint-kincses.*
-%:alt: photo
-%:width: 300px
-%:align: center
-%```
-%:::
+:::{grid-item-card}
+:link: people/balint-kincses.md
+:header: **Balint Kincses** <br>
+:footer: *postdoctoral researcher*
+```{image} figures/balint-kincses.*
+:alt: photo
+:width: 300px
+:align: center
+```
+:::
 
 
 :::{grid-item-card}
