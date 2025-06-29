@@ -1,6 +1,5 @@
 ---
 short_title: Main
-github: https://github.com/pni-lab/pni-lab.github.io/blob/main/00-index.md
 ---
 
 % add an empty header to avoid having the first header in the page repeat twice
