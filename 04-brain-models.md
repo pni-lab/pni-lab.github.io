@@ -1,6 +1,5 @@
 ---
 short_title: Brain Models
-github: https://github.com/pni-lab/pni-lab.github.io/edit/main/04-brain-models.md
 ---
 
 % add an empty header to avoid having the first header in the page repeat twice
