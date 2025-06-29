@@ -6,7 +6,7 @@ project:
   description: The official website of the Predictive Neuroscience Lab, University Hospital Essen, Germany
   keywords: []
   license: CC-BY-4.0
-  github: https://github.com/pni-lab
+  github: https://github.com/pni-lab/pni-lab.github.io
   # bibliography: []
 site:
   template: book-theme
