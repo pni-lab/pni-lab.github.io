@@ -36,6 +36,7 @@ github: https://github.com/pni-lab/pni-lab.github.io/blob/main/01-news.md
 :footer: August 12-15 2025
 :link: [https://2025.ccneuro.org](https://2025.ccneuro.org/)
 "High-level information integration in the brain via large-scale attractor dynamics" #274
+
 "Towards generative AI-based fMRI paradigms: reinforcement learning via real-time brain feedback" #552
 Meet there Tamas and Giuseppe!
 ```
