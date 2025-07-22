@@ -121,6 +121,16 @@ short_title: People
 ```
 :::
 
+:::{grid-item-card}
+:link: people/philipp-marosch.md
+:header: **Philipp Marosch** <br>
+:footer: *Research Assistant*
+```{image} figures/philipp-marosch.*
+:alt: photo
+:width: 300px
+:align: center
+```
+:::
 
 ::::
 
