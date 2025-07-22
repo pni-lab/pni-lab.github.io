@@ -9,6 +9,13 @@ short_title: News
 
 ### Latest
 
+```{card} **New commentray on a pain sensitivity biomarker in JAMA Neurology**
+:header: 💬 Commentary
+:footer: July 21th 2025
+:link: https://jamanetwork.com/journals/jamaneurology/fullarticle/2836397
+"Concern About Predictive Performance of a Pain Sensitivity Biomarker" by Ole Goltermann, Tamas Spisak and Christian Büchel
+```
+
 ```{card} **New preprint on self-orthogonalizing attractor networks**
 :header: 🔥 Preprint
 :footer: May 28th 2025
