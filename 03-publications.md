@@ -22,6 +22,14 @@ short_title: Publications
   - Year
   - More
 
+* - [Self-orthogonalizing attractor neural networks emerging from the free energy principle.]( 	
+https://doi.org/10.48550/arXiv.2505.22749)
+  - [T. Spisak](tamas-spisak)
+  - K. Friston
+  - arXiv
+  - 2025
+  - [🌐︎](https://pni-lab.github.io/fep-attractor-network/)
+
 * - [Multivariate BWAS can be replicable with moderate sample sizes](https://doi.org/10.1038/s41586-023-05745-x)
   - [T. Spisak](tamas-spisak)
   - TD. Wager
