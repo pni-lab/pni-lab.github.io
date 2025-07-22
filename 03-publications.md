@@ -93,7 +93,18 @@ short_title: Publications
 ````
 
 ````{tab-item} Latest
+
+#### 2025
+- [](https://doi.org/10.48550/arXiv.2505.22749)
+- [](10.3389/fpsyg.2025.1522634)
+- [](https://doi.org/10.1101/2025.05.04.651880)
+- [](https://doi.org/10.1101/2025.04.02.646781)
+- [](https://doi.org/10.1101/2025.03.12.25323754)
+- [](https://doi.org/10.1101/2025.05.21.655287)
+- [](https://doi.org/10.1093/gigascience/giaf036)
+
 #### 2024
+- [](https://doi.org/10.7554/eLife.98725.1)
 - [](https://doi.org/10.1038/s42003-024-06574-y)
 - [](https://doi.org/10.1101/2024.07.08.602202)
 - [](https://doi.org/10.1162/imag_a_00103)
