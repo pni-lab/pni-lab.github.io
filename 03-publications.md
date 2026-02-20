@@ -75,7 +75,7 @@ https://doi.org/10.48550/arXiv.2505.22749)
 * - [On the replicability of diffusion weighted MRI-based brain-behavior models](https://doi.org/10.1038/s42003-025-09048-x)
   - [R. Kotikalapudi](raviteja-kotikalapudi)
   - [T. Spisak](tamas-spisak)
-  - {abbr}`Pain (2022 IF: 5.2)`
+  - {abbr}`Communications Biology (2022 IF: 5.9)`
   - 2025
   - 
 
