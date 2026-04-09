@@ -24,8 +24,7 @@ email: giuseppe.gallitto@uk.essen.de
 - 👯 I’m looking to collaborate on Open Science / Open Data
 - 📫 How to reach me: [Mastodon](https://techhub.social/@gallg), 
                       [Bluesky](https://bsky.app/profile/ggallitto.bsky.social),
-                      [LinkedIn](https://www.linkedin.com/in/giuseppe-gallitto-618846111/),
-                      [X](https://twitter.com/g_gallitto)
+                      [LinkedIn](https://www.linkedin.com/in/giuseppe-gallitto-618846111/)
 :::
 
 
@@ -58,7 +57,7 @@ Implementation of setups for the acquisition and analysis of EEG/fMRI, oculomoto
 1. **University of Duisburg-Essen**<br>
 Doctor of Philosophy - PhD<br>
 Artificial Intelligence for Brain Imaging Research<br>
-2021 - Present
+2023 - Present
 <br><br>
 
 2. **University of Trento**<br>
@@ -74,14 +73,20 @@ Bachelor's degree in Psychology<br>
 
 :::{dropdown} Publications
 :close:
-*External validation of machine learning models-registered models and adaptive sample splitting*.
-bioRxiv · Dec 1, 2023 · [Open Publication](https://www.biorxiv.org/content/biorxiv/early/2023/12/04/2023.12.01.569626.full.pdf)
+*Aperiodic and periodic neural activity during sleep in autism spectrum disorders*.
+BMC Medicine · Mar 18, 2026 · [Open Publication](https://doi.org/10.1186/s12916-026-04771-6)
 
 *Connectome-Based Attractor Dynamics Guide Brain Activity in Rest, Task, and Disease*.
-bioRxiv · Nov 5, 2023 · [Open Publication](https://www.biorxiv.org/content/10.1101/2023.11.03.565516v2.full.pdf)
+eLife · Mar 18, 2026 · [Open Publication](https://doi.org/10.7554/eLife.98725.3)
+
+*On the replicability of diffusion weighted MRI-based brain-behavior models*.
+Communications Biology · Oct 30, 2025 · [Open Publication](https://doi.org/10.1038/s42003-025-09048-x)
+
+*External validation of machine learning models-registered models and adaptive sample splitting*.
+GigaScience · May 14, 2025 · [Open Publication](https://doi.org/10.1093/gigascience/giaf036)
 
 *The past, present, and future of the brain imaging data structure (BIDS)*.
-arXiv · Sep 11, 2023 · [Open Publication](https://arxiv.org/pdf/2309.05768.pdf)
+Imaging Neuroscience · Mar 08, 2024 · [Open Publication](https://doi.org/10.1162/imag_a_00103)
 
 *Improving Mental Models in IoT End-User Development*.
 Human-centric Computing and Information Sciences · Oct 19, 2022 · 
@@ -94,8 +99,8 @@ Entropy · Jun 29, 2021 · [Open Publication](https://www.mdpi.com/1099-4300/23/
 CEUR-WS.org · Sep 29, 2020 · [Open Publication](https://ceur-ws.org/Vol-2702/EMPATHY_2020_paper_2.pdf)
 
 *A Joint Modelling Approach to Analyze Risky Decisions by Means of Diffusion Tensor Imaging and Behavioural Data*.
-Brain Sciences · Mar 1, 2020 · [Open Publication](https://www.mdpi.com/2076-3425/10/3/138)
+Brain Sciences · Mar 01, 2020 · [Open Publication](https://www.mdpi.com/2076-3425/10/3/138)
 
 *Brain–Machine Interface Induced Morpho-Functional Remodeling of the Neural Motor System in Severe Chronic Stroke*.
-Neurotherapeutics · Dec 4, 2019 · [Open Publication](https://www.researchgate.net/publication/337750390_Brain-Machine_Interface_Induced_Morpho-Functional_Remodeling_of_the_Neural_Motor_System_in_Severe_Chronic_Stroke)
+Neurotherapeutics · Dec 04, 2019 · [Open Publication](https://www.researchgate.net/publication/337750390_Brain-Machine_Interface_Induced_Morpho-Functional_Remodeling_of_the_Neural_Motor_System_in_Severe_Chronic_Stroke)
 :::
