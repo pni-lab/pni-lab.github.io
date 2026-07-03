@@ -88,6 +88,18 @@ short_title: People
 
 
 :::{grid-item-card}
+:link: people/jenya-lerer.md
+:header: **Jenya (Yevgeny) Lerer**
+:footer: *doctoral student*
+```{image} figures/jenya-lerer.*
+:alt: photo
+:width: 300px
+:align: center
+```
+:::
+
+
+:::{grid-item-card}
 :link: people/kevin-hoffschlag.md
 :header: **Kevin Hoffschlag**
 :footer: *research assistant*
