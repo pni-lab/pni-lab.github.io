@@ -44,6 +44,13 @@ short_title: News
 "Predicting individual differences of fear and cognitive learning and extinction" by Gomes, Bach, Razi, …, Spisak, Axmacher et al.
 ```
 
+```{card} **New preprint: cerebellar contributions to placebo analgesia**
+:header: 🔥 Preprint
+:footer: April 7th 2026
+:link: https://www.biorxiv.org/content/10.1101/2026.04.07.717067v1
+"Cerebellar activation in human placebo analgesia: Bridging findings from mice to humans" by Zhenjiang Wei et al. — cross-species evidence that the cerebellum is engaged during placebo analgesia, linking rodent findings to human neuroimaging.
+```
+
 ```{card} **Attractor networks from the Free Energy Principle — now in Neurocomputing!**
 :header: 🎉 New paper
 :footer: March 28th 2026
