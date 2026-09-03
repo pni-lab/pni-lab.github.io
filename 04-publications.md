@@ -111,6 +111,8 @@ short_title: Publications
 
 ````{tab-item} Latest
 
+### Preprints
+
 #### 2025
 - [](https://doi.org/10.48550/arXiv.2505.22749)
 - [](10.3389/fpsyg.2025.1522634)
