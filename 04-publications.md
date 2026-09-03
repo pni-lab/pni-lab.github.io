@@ -5,6 +5,7 @@ short_title: Publications
 % add an empty header to avoid having the first header in the page repeat twice
 ##
 
+(publications)=
 ## Publications
 
 `````{tab-set}
@@ -22,88 +23,89 @@ short_title: Publications
   - Year
   - More
 
-* - [Self-orthogonalizing attractor neural networks emerging from the free energy principle.]( 	
-https://doi.org/10.48550/arXiv.2505.22749)
-  - [T. Spisak](tamas-spisak)
+* - [Self-orthogonalizing attractor neural networks emerging from the free energy principle.](https://doi.org/10.1016/j.neucom.2026.133472)
+  - [T. Spisak](people/tamas-spisak.md)
   - K. Friston
-  - arXiv
-  - 2025
+  - Neurocomputing
+  - 2026
   - [🌐︎](https://pni-lab.github.io/fep-attractor-network/)
 
 * - [Multivariate BWAS can be replicable with moderate sample sizes](https://doi.org/10.1038/s41586-023-05745-x)
-  - [T. Spisak](tamas-spisak)
+  - [T. Spisak](people/tamas-spisak.md)
   - TD. Wager
   - {abbr}`Nature (2022 IF: 64.8)`
   - 2023
-  - [🌐︎](#bwas-replicability) [🎦](https://youtu.be/sFDRh_AfjkI)
+  - [🌐︎](https://spisakt.github.io/BWAS_comment/) [🎦](https://youtu.be/sFDRh_AfjkI)
+
+* - [Functional connectivity-based attractor dynamics of the human brain in rest, task, and disease](https://doi.org/10.7554/eLife.98725)
+  - [R. Englert](people/robert-englert.md)
+  - [T. Spisak](people/tamas-spisak.md)
+  - {abbr}`eLife (2023 IF: 6.4)`, [website](https://pni-lab.github.io/connattractor)
+  - 2026
+  - [🌐︎](05-brain-models.md#fchnn)
 
 * - [Pain-free resting-state functional brain connectivity predicts individual pain sensitivity](https://doi.org/10.1038/s41467-019-13785-z)
-  - [T. Spisak](tamas-spisak)
+  - [T. Spisak](people/tamas-spisak.md)
   - U. Bingel
   - {abbr}`Nature Communications (2021 IF: 14.9)`
   - 2020
-  - [🌐︎](#rpn-signature)
+  - [🌐︎](05-brain-models.md#rpn-signature)
 
-* - [Statistical quantification of confounding bias in machine learning models](doi.org/10.1093/gigascience/giac082)
-  - [T. Spisak](tamas-spisak)
+* - [Statistical quantification of confounding bias in machine learning models](https://doi.org/10.1093/gigascience/giac082)
+  - [T. Spisak](people/tamas-spisak.md)
   - *sole author*
   - {abbr}`GigaScience (2021 IF: 7.7)`
   - 2022
-  - [🌐︎](#mlconfound)
+  - [🌐︎](06-software.md#mlconfound)
 
 * - [Meta-analysis of neural systems underlying placebo analgesia from individual participant fMRI data](https://doi.org/10.1038/s41467-021-21179-3)
   - M. Zunhammer
   - U. Bingel
   - {abbr}`Nature Communications (2021 IF: 17.7)`
   - 2021
-  - [🌐︎](https://placebo-imaging-consortium.github.io/)
+  - [🌐︎](projects/placebo-imaging.md)
 
-* - [Probabilistic TFCE: a generalised combination of cluster size and voxel intensity to increase statistical power](doi.org/10.1016/j.neuroimage.2018.09.078)
-  - [T. Spisak](tamas-spisak)
+* - [Probabilistic TFCE: a generalised combination of cluster size and voxel intensity to increase statistical power](https://doi.org/10.1016/j.neuroimage.2018.09.078)
+  - [T. Spisak](people/tamas-spisak.md)
   - TZ. Kincses
   - {abbr}`NeuroImage (2019 IF: 5.9)`
   - 2019
-  - [🌐︎](#ptfce)
+  - [🌐︎](06-software.md#ptfce)
 
-* - [Brain morphology predicts individual sensitivity to pain: a multicenter machine learning approach](doi.org/10.1097/j.pain.0000000000002958)
-  - [R. Kotikalapudi](raviteja-kotikalapudi)
-  - [T. Spisak](tamas-spisak)
+* - [Brain morphology predicts individual sensitivity to pain: a multicenter machine learning approach](https://doi.org/10.1097/j.pain.0000000000002958)
+  - [R. Kotikalapudi](people/raviteja-kotikalapudi.md)
+  - [T. Spisak](people/tamas-spisak.md)
   - {abbr}`Pain (2022 IF: 7.9)`
   - 2023
-  - [🌐︎](#ctp-signature)
+  - [🌐︎](05-brain-models.md#ctp-signature)
 
 * - [On the replicability of diffusion weighted MRI-based brain-behavior models](https://doi.org/10.1038/s42003-025-09048-x)
-  - [R. Kotikalapudi](raviteja-kotikalapudi)
-  - [T. Spisak](tamas-spisak)
+  - [R. Kotikalapudi](people/raviteja-kotikalapudi.md)
+  - [T. Spisak](people/tamas-spisak.md)
   - {abbr}`Communications Biology (2022 IF: 5.9)`
   - 2025
-  - 
+  - [🌐︎](projects/scientific-practices.md)
 
 * - [Machine learning and artificial intelligence in neuroscience: A primer for researchers](https://doi.org/10.1016/j.bbi.2023.11.005)
   - F. Badrulhisham
   - Jan Vollert
   - {abbr}`Brain, Behavior, and Immunity (2022 IF: 15.1)`
   - 2023
+  - [🌐︎](projects/scientific-practices.md)
 
 * - [The Past, Present, and Future of the Brain Imaging Data Structure (BIDS)](https://doi.org/10.1162/imag_a_00103)
   - RA. Poldrack
   - KJ. Gorgolewski 
   - Imaging Neuroscience
   - 2023
+  - [🌐︎](projects/scientific-practices.md)
 
 * - [An externally validated resting-state brain connectivity signature of pain-related learning](https://doi.org/10.1038/s42003-024-06574-y)
-  - [B. Kincses](balint-kincses)
-  - [T. Spisak](tamas-spisak)
+  - [B. Kincses](people/balint-kincses.md)
+  - [T. Spisak](people/tamas-spisak.md)
   - {abbr}`Communications Biology (2023 IF: 5.9)`
   - 2024
-  - [🌐︎](#rcpl-signature)
-
-* - [Connectome-Based Attractor Dynamics Underlie Brain Activity in Rest, Task, and Disease](https://doi.org/10.1101/2023.11.03.565516)
-  - [R. Englert](robert-englert)
-  - [T. Spisak](tamas-spisak)
-  - BioRxiv preprint, under review in {abbr}`eLife (2023 IF: 6.4)`, [website](https://pni-lab.github.io/connattractor/paper)
-  - 2023
-  - [🌐︎](#fchnn)
+  - [🌐︎](05-brain-models.md#rcpl-signature)
 ```
 ````
 

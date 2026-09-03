@@ -33,9 +33,19 @@ chapters:
       - file: people/kevin-hoffschlag
       - file: people/sulin-ali
       - file: people/philipp-marosch.md
-  - file: 03-publications
-  - file: 04-brain-models
-  - file: 05-software
-  - file: 06-data
-  - file: 07-contact
-
+  - file: 03-projects
+    sections:
+      - file: projects/trr289
+      - file: projects/sfb1280
+      - file: projects/neuroflex
+      - file: projects/attractor-networks
+      - file: projects/predictive-models
+      - file: projects/layer-fmri
+      - file: projects/placebo-imaging
+      - file: projects/rlbf
+      - file: projects/scientific-practices
+  - file: 04-publications
+  - file: 05-brain-models
+  - file: 06-software
+  - file: 07-data
+  - file: 08-contact

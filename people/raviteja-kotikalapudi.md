@@ -29,7 +29,7 @@ github: [click-here](https://github.com/rkotikalapudi)
 | **2010-2011**  | Master's in Medical Physics - University of Manchester, United Kingdom |
 | **2005-2009**  |    Bachelor of Technology - Biomedical Engineering, JNTU-K, India     |
 
-## Publications
+## Selected publications (Raviteja Kotikalapudi)
 
 Click here for [_ALL_](https://scholar.google.com/citations?user=J4IiWQMAAAAJ&hl=en&oi=ao) publications. First/Last author publications are below:
 

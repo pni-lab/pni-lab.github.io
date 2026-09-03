@@ -49,7 +49,7 @@ Map
 
 
 ````{tab-item} E-mail
-tamas.spisak@uk-essen.de
+[tamas.spisak@uk-essen.de](mailto:tamas.spisak@uk-essen.de)
 ````
 
 ````{tab-item} Phone
@@ -57,10 +57,8 @@ tamas.spisak@uk-essen.de
 ````
 
 ````{tab-item} Social Networks
-- **Github:**
-[pni-lab]https://github.com/pni-lab
-[spisakt](https://github.com/spisakt)
-- **𝕏:**
-[spisaktamas](https://twitter.com/spisaktamas)
-
+- **GitHub:** [pni-lab](https://github.com/pni-lab) · [spisakt](https://github.com/spisakt)
+- **Bluesky:** [tspisak.bsky.social](https://bsky.app/profile/tspisak.bsky.social)
+- **LinkedIn:** [Tamás Spisák](https://www.linkedin.com/in/tam%C3%A1s-spis%C3%A1k-bb80a410a/)
+- **𝕏:** [spisaktamas](https://twitter.com/spisaktamas)
 ````
