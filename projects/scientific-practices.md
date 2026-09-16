@@ -28,6 +28,6 @@ We care as much about **how** predictive neuroimaging is done as about any singl
 
 | Resource | Focus |
 | --- | --- |
-| [Englert et al. — ALIIAS](../06-software.md) (*SoftwareX*, 2023) | Customisable anonymization/pseudonymization with LimeSurvey integration and two-factor authentication. |
+| [Englert et al. — ALIIAS](../07-software.md) (*SoftwareX*, 2023) | Customisable anonymization/pseudonymization with LimeSurvey integration and two-factor authentication. |
 
-Related methodological packages for trustworthy predictive models (confound testing, adaptive external validation, cluster enhancement) are listed under [Predictive models](predictive-models.md) and [Software](../06-software.md). See also [BWAS replicability](../06-software.md#bwas-replicability).
+Related methodological packages for trustworthy predictive models (confound testing, adaptive external validation, cluster enhancement) are listed under [Predictive models](predictive-models.md) and [Software](../07-software.md). See also [BWAS replicability](../07-software.md#bwas-replicability).

@@ -28,28 +28,28 @@ Central database for [TRR 289 “Treatment Expectation”](projects/trr289.md)
 :link: https://github.com/pni-data/BEP035_example
 :header: **BEP-035 example MRI**
 :footer: ![k=4](https://img.shields.io/badge/studies:4-lightgray)
-MRI example Dataset for [BIDS-MEGA / BEP-035](06-software.md#bids-mega)
+MRI example Dataset for [BIDS-MEGA / BEP-035](07-software.md#bids-mega)
 :::
 
 :::{grid-item-card}
 :link: https://github.com/pni-data/MEGA_TEST
 :header: **BEP-035 example EEG**
 :footer: ![n~500](https://img.shields.io/badge/n=~500-lightgray)
-EEG+HED example Dataset for [BIDS-MEGA / BEP-035](06-software.md#bids-mega)
+EEG+HED example Dataset for [BIDS-MEGA / BEP-035](07-software.md#bids-mega)
 :::
 
 :::{grid-item-card}
 :link: https://github.com/pni-data/rpn-study1
 :header: **RPN study 1**
 :footer: ![n~40](https://img.shields.io/badge/n=40-lightgray)
-Study 1 from the [RPN-signature](05-brain-models.md#rpn-signature) paper ([doi](https://doi.org/10.1038/s41467-019-13785-z))
+Study 1 from the [RPN-signature](06-brain-models.md#rpn-signature) paper ([doi](https://doi.org/10.1038/s41467-019-13785-z))
 :::
 
 :::{grid-item-card}
 :link: https://github.com/pni-data/rpn-study2
 :header: **RPN study 2**
 :footer: ![n~44](https://img.shields.io/badge/n=44-lightgray)
-Study 2 from the [RPN-signature](05-brain-models.md#rpn-signature) paper ([doi](https://doi.org/10.1038/s41467-019-13785-z); n=44)
+Study 2 from the [RPN-signature](06-brain-models.md#rpn-signature) paper ([doi](https://doi.org/10.1038/s41467-019-13785-z); n=44)
 :::
 
 :::{grid-item-card}
@@ -77,14 +77,14 @@ A curated collection of HCP derivatives
 :link: https://github.com/pni-data/pumi_test_data
 :header: **PUMI test data**
 :footer: ![n=3](https://img.shields.io/badge/n=3-lightgray)
-Anatomical and fMRI data of three example participants for [PUMI](06-software.md#pumi) (n=3)
+Anatomical and fMRI data of three example participants for [PUMI](07-software.md#pumi) (n=3)
 :::
 
 :::{grid-item-card}
 :link: https://github.com/pni-data/pumi-minitest
 :header: **PUMI unittest**
 :footer: ![n=1](https://img.shields.io/badge/n=1-lightgray)
-Extra low-resolution dummy data for lightning fast [PUMI](06-software.md#pumi) tests
+Extra low-resolution dummy data for lightning fast [PUMI](07-software.md#pumi) tests
 :::
 
 

@@ -32,7 +32,6 @@ Mapped to neuroimaging, resting-state and task fMRI can be fit (e.g. via score m
 ### Software
 
 - **[attractome](https://github.com/pni-lab/attractome)** — connectivity-based FEP attractor nets for parcellated fMRI (HRF deconvolution, score matching, attractor utilities; research preview)
-- **[connattractor](../06-software.md)** — connectome-based Hopfield / attractor analyses for fMRI **package retired, use `attractome`**
+- **[connattractor](../07-software.md)** — connectome-based Hopfield / attractor analyses for fMRI **package retired, use `attractome`**
 
-
-See also [Brain models / fcHNN](../05-brain-models.md#fchnn) and [Publications](../04-publications.md).
+See also [Brain models / fcHNN](../06-brain-models.md#fchnn) and [Publications](../05-publications.md).

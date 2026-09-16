@@ -42,21 +42,21 @@ short_title: Publications
   - [T. Spisak](people/tamas-spisak.md)
   - {abbr}`eLife (2023 IF: 6.4)`, [website](https://pni-lab.github.io/connattractor)
   - 2026
-  - [🌐︎](05-brain-models.md#fchnn)
+  - [🌐︎](06-brain-models.md#fchnn)
 
 * - [Pain-free resting-state functional brain connectivity predicts individual pain sensitivity](https://doi.org/10.1038/s41467-019-13785-z)
   - [T. Spisak](people/tamas-spisak.md)
   - U. Bingel
   - {abbr}`Nature Communications (2021 IF: 14.9)`
   - 2020
-  - [🌐︎](05-brain-models.md#rpn-signature)
+  - [🌐︎](06-brain-models.md#rpn-signature)
 
 * - [Statistical quantification of confounding bias in machine learning models](https://doi.org/10.1093/gigascience/giac082)
   - [T. Spisak](people/tamas-spisak.md)
   - *sole author*
   - {abbr}`GigaScience (2021 IF: 7.7)`
   - 2022
-  - [🌐︎](06-software.md#mlconfound)
+  - [🌐︎](07-software.md#mlconfound)
 
 * - [Meta-analysis of neural systems underlying placebo analgesia from individual participant fMRI data](https://doi.org/10.1038/s41467-021-21179-3)
   - M. Zunhammer
@@ -70,14 +70,14 @@ short_title: Publications
   - TZ. Kincses
   - {abbr}`NeuroImage (2019 IF: 5.9)`
   - 2019
-  - [🌐︎](06-software.md#ptfce)
+  - [🌐︎](07-software.md#ptfce)
 
 * - [Brain morphology predicts individual sensitivity to pain: a multicenter machine learning approach](https://doi.org/10.1097/j.pain.0000000000002958)
   - [R. Kotikalapudi](people/raviteja-kotikalapudi.md)
   - [T. Spisak](people/tamas-spisak.md)
   - {abbr}`Pain (2022 IF: 7.9)`
   - 2023
-  - [🌐︎](05-brain-models.md#ctp-signature)
+  - [🌐︎](06-brain-models.md#ctp-signature)
 
 * - [On the replicability of diffusion weighted MRI-based brain-behavior models](https://doi.org/10.1038/s42003-025-09048-x)
   - [R. Kotikalapudi](people/raviteja-kotikalapudi.md)
@@ -105,7 +105,7 @@ short_title: Publications
   - [T. Spisak](people/tamas-spisak.md)
   - {abbr}`Communications Biology (2023 IF: 5.9)`
   - 2024
-  - [🌐︎](05-brain-models.md#rcpl-signature)
+  - [🌐︎](06-brain-models.md#rcpl-signature)
 ```
 ````
 

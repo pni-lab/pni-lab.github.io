@@ -7,7 +7,7 @@ short_title: Projects
 
 ## Projects
 
-Main projects and grants we are part of. Click a project for more information. See also [Brain models](05-brain-models.md), [Software](06-software.md), and [Publications](04-publications.md).
+Main projects and grants we are part of. Click a project for more information. See also [Brain models](06-brain-models.md), [Software](07-software.md), and [Publications](05-publications.md).
 
 ::::{grid} 1 2 3 4
 
