@@ -8,7 +8,7 @@ short_title: Brain Models
 (brain-models)=
 ## Brain Models
 
-Signatures and computational models developed in the lab. Related themes: [Projects](03-projects.md) · [Software](06-software.md) · [Publications](04-publications.md).
+Signatures and computational models developed in the lab. Related themes: [Projects](03-projects.md) · [Software](07-software.md) · [Publications](05-publications.md).
 
 ::::{grid} 1 2 3 3
 

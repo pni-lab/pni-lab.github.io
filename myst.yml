@@ -11,13 +11,15 @@ project:
 site:
   template: book-theme
   title: Predictive Neuroscience Lab
-  hide_toc: false
-  hide_footer_links: true
-  twitter: https://twitter.com/spisaktamas
   github: https://github.com/pni-lab
-  analytics_google: UA-120757757-3 # Measurement ID or Tracking ID
-  logo: figures/logo_text_blue.png
-  logo_dark: figures/logo_text_blue.png
+  options:
+    hide_toc: false
+    hide_footer_links: true
+    twitter: https://twitter.com/spisaktamas
+    analytics_google: UA-120757757-3 # Measurement ID or Tracking ID
+    logo: figures/logo_text_blue.png
+    logo_dark: figures/logo_text_blue.png
+    style: ./style.css
   nav: []
   actions:
     - title: C-TNBS

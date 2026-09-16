@@ -1,0 +1,8 @@
+/* Mobile: hide the in-article document outline ("Contents" / "In this article").
+   On desktop (≥1024px) MyST keeps it in the right margin — leave that alone.
+*/
+@media (max-width: 1023px) {
+  .myst-outline-section {
+    display: none !important;
+  }
+}

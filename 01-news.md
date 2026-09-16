@@ -69,7 +69,7 @@ short_title: News
 :header: 💻 Software release
 :footer: March 2026
 :link: https://pni-lab.github.io/quickbrain/
-Lightweight package for minimalistic, lightning-fast brain surface visualizations with contour overlay (including cerebellum). `pip install` from GitHub — see [Software](./06-software.md).
+Lightweight package for minimalistic, lightning-fast brain surface visualizations with contour overlay (including cerebellum). `pip install` from GitHub — see [Software](./07-software.md).
 ```
 
 ### 2025
@@ -150,7 +150,7 @@ External validation of machine learning models - registered models and adaptive 
 Our contributions: Machine Learning Masterclass talk by Tamas Spisak; two posters by Jialin Li and Balint Kincses
 ```
 
-```{card} **The [RCPL-signature](./05-brain-models.md#rcpl-signature) paper is out in Comm. Biol.**
+```{card} **The [RCPL-signature](./06-brain-models.md#rcpl-signature) paper is out in Comm. Biol.**
 :header:  🔥 New paper
 :footer: July 17th 2024
 :link: https://doi.org/10.1038/s42003-024-06574-y
@@ -195,7 +195,7 @@ External validation of machine learning models - registered models and adaptive 
 Click for details.
 ```
 
-```{card} **[connattractor](./05-brain-models.md#fchnn) on PyPI**
+```{card} **[connattractor](./06-brain-models.md#fchnn) on PyPI**
 :header: 💻 Software release 
 :footer: Nov 21th 2023
 :link: https://pypi.org/project/connattractor/

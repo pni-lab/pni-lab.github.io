@@ -60,17 +60,17 @@ short_title: Tamas Spisak
 ```
 
 ```{card}
-:link: ../04-publications.md
+:link: ../05-publications.md
 **Lab Publications**
 ```
 
 ```{card}
-:link: ../06-software.md
+:link: ../07-software.md
 **Software**
 ```
 
 ```{card}
-:link: ../07-data.md
+:link: ../08-data.md
 **Datasets**
 ```
 
@@ -91,7 +91,7 @@ short_title: Tamas Spisak
 - **Bluesky:** [tspisak.bsky.social](https://bsky.app/profile/tspisak.bsky.social)
 - **LinkedIn:** [Tamás Spisák](https://www.linkedin.com/in/tam%C3%A1s-spis%C3%A1k-bb80a410a/)
 - **𝕏:** [spisaktamas](https://twitter.com/spisaktamas)
-- **Lab contact page:** [Contact](../08-contact.md)
+- **Lab contact page:** [Contact](../09-contact.md)
 
 
 (professional-experience)=
@@ -127,7 +127,7 @@ short_title: Tamas Spisak
 (selected-activities)=
 ## Selected activities
 
-- **BEP Lead** in the [Brain Imaging Data Structure (BIDS)](https://bids.neuroimaging.io/) community ([BIDS-MEGA](../06-software.md#bids-mega))
+- **BEP Lead** in the [Brain Imaging Data Structure (BIDS)](https://bids.neuroimaging.io/) community ([BIDS-MEGA](../07-software.md#bids-mega))
 - **Co-lead** of the [Placebo Imaging Consortium](../projects/placebo-imaging.md)
 - Founder and co-chair of the NIWS Conference 2022 (joint neuroimaging workshop for [TRR 289](../projects/trr289.md) and [SFB 1280](../projects/sfb1280.md))
 - Reviewing for journals including *Nature Human Behaviour*, *Nature Communications*, *eLife*, *NeuroImage*, *GigaScience*, *Pain*, and funding agencies including DFG, MRC, and UKRI

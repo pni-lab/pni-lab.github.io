@@ -37,22 +37,27 @@ short_title: Main
 :::
 
 :::{grid-item-card}
-:link: ./04-publications.md
+:link: ./04-seminar.md
+🎤 Seminar
+:::
+
+:::{grid-item-card}
+:link: ./05-publications.md
 📄 Publications
 :::
 
 :::{grid-item-card}
-:link: ./05-brain-models.md
+:link: ./06-brain-models.md
 🧠 Brain models
 :::
 
 :::{grid-item-card}
-:link: ./06-software.md
+:link: ./07-software.md
 💻 Software
 :::
 
 :::{grid-item-card}
-:link: ./07-data.md
+:link: ./08-data.md
 ⬇️ Data
 :::
 
@@ -62,7 +67,7 @@ short_title: Main
 :::
 
 :::{grid-item-card}
-:link: ./08-contact.md
+:link: ./09-contact.md
 ✉️ Contact
 :::
 
@@ -79,7 +84,7 @@ At the Predictive Neuroscience Lab (University Hospital Essen, Germany, PI: [Tam
 
 We develop neuromarkers - biomarkers derived from neural data - that aim to predict behavioral and clinical states or traits at the individual level. We deploy computational brain models to uncover the neural mechanisms driving these predictions. We strive to apply these approaches in both experimental and clinical settings, directly evaluating their potential to enhance diagnosis, patient stratification, prognosis, and personalized intervention strategies for various brain disorders.
 
-See also our [Projects](03-projects.md), [Brain models](05-brain-models.md), [Software](06-software.md), and [Publications](04-publications.md).
+See also our [Projects](03-projects.md), [Seminar](04-seminar.md), [Brain models](06-brain-models.md), [Software](07-software.md), and [Publications](05-publications.md).
 
 (funding)=
 ### Funding

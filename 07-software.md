@@ -8,7 +8,7 @@ short_title: Software
 (software)=
 ## Software
 
-Open-source tools from the lab. Related: [Brain models](05-brain-models.md) · [Projects](03-projects.md) · [Publications](04-publications.md).
+Open-source tools from the lab. Related: [Brain models](06-brain-models.md) · [Projects](03-projects.md) · [Publications](05-publications.md).
 
 ::::{grid} 1 2 3 3
 

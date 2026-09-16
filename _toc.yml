@@ -44,8 +44,9 @@ chapters:
       - file: projects/placebo-imaging
       - file: projects/rlbf
       - file: projects/scientific-practices
-  - file: 04-publications
-  - file: 05-brain-models
-  - file: 06-software
-  - file: 07-data
-  - file: 08-contact
+  - file: 04-seminar
+  - file: 05-publications
+  - file: 06-brain-models
+  - file: 07-software
+  - file: 08-data
+  - file: 09-contact
