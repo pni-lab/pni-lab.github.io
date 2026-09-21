@@ -6,9 +6,9 @@ short_title: Tamas Spisak
 #
 :::{card} # Prof.  Dr. Tamas Spisak
 :width: 200%
-### **Professor of Predictive Neuroscience**
+**Professor of Predictive Neuroscience**
 
-***PI @ Predictive Neuroscience Lab***
+PI @ Predictive Neuroscience Lab***
 :::
 
 ::::{grid} 2 2 2 2
@@ -21,7 +21,7 @@ short_title: Tamas Spisak
 ```
 
 ```{card}
-:header: ### Affiliation
+:header: Affiliation
 :footer: [**Get in touch!**](#contact)
 
 
